@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktexastsarulebook=self.webpackChunktexastsarulebook||[]).push([[9235],{4627:e=>{e.exports=JSON.parse('{"permalink":"/texastsarulebook/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -32,7 +32,7 @@ Texas TSA does not refund any money for unused state entries. Texas TSA does not
 
 Annually, Texas TSA recruits people to run all the Unique to Texas events and National Qualifying events, Coordinating Judge Chairman, National Qualifying Event Coordinator, School Awards Coordinator, all Room/Hall Coordinators, Special Services and Contest Consultants.
 
-Instructors and all entrants who have a concern regarding event or competition rules should first contact the event coordinator (if available) to voice your concern. For further concerns, you may contact the contest management team, their contact information can be found [here](/docs/rulebook/contest-management-team).
+Instructors and all entrants who have a concern regarding event or competition rules should first contact the event coordinator (if available) to voice your concern. For further concerns, you may contact the contest management team, their contact information can be found [here](/contest-management-team).
 
 ## Event Coordinators
 

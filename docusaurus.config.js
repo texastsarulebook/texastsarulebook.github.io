@@ -43,14 +43,16 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/texastsarulebook/texastsarulebook",
+          editUrl:
+            "https://github.com/texastsarulebook/texastsarulebook.github.io",
           routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/texastsarulebook/texastsarulebook",
+          editUrl:
+            "https://github.com/texastsarulebook/texastsarulebook.github.io",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -84,7 +86,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/texastsarulebook/texastsarulebook",
+            href: "https://github.com/texastsarulebook/texastsarulebook.github.io",
             label: "GitHub",
             position: "right",
           },
@@ -128,7 +130,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/texastsarulebook/texastsarulebook",
+                href: "https://github.com/texastsarulebook/texastsarulebook.github.io",
               },
               {
                 label: "National TSA",

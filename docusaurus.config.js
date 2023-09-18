@@ -21,6 +21,8 @@ const config = {
   organizationName: "texastsarulebook", // Usually your GitHub org/user name.
   projectName: "texastsarulebook", // Usually your repo name.
 
+  trailingSlash: false,
+
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 

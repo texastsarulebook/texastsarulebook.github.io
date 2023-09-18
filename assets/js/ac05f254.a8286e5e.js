@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktexastsarulebook=self.webpackChunktexastsarulebook||[]).push([[7175],{591:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/texastsarulebook/blog/tags/facebook","allTagsPath":"/texastsarulebook/blog/tags","count":1}')}}]);

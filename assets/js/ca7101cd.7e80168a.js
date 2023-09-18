@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktexastsarulebook=self.webpackChunktexastsarulebook||[]).push([[2028],{1995:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/texastsarulebook/blog/tags/docusaurus","allTagsPath":"/texastsarulebook/blog/tags","count":4}')}}]);

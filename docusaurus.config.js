@@ -44,6 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/texastsarulebook/texastsarulebook",
+          routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
@@ -96,8 +97,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Introduction",
+                to: "/",
               },
             ],
           },

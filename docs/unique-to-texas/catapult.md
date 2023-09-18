@@ -12,7 +12,13 @@ A catapult is a mechanism used to forcefully propelling stones, spears, or other
 
 ## Team
 
-A team is made of 2-4 members. There is a limit of one catapult team per chapter. All team members must be present during lunching/competition time.
+A team is made of 2-4 members. There is a limit of one catapult team per chapter.
+
+:::important Attention
+
+All team members must be present during lunching/competition time.
+
+:::
 
 ## Design Constraints
 

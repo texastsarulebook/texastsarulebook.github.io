@@ -12,7 +12,7 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 - Maximum sheet size in this category is 24 x 36 inches.
 - The most current version of the American National Standard Institute (ANSI) standards of symbols and conventions will be the standard for judging.
-- Free Hand Lettering: Is to be used except for CADD and INK drawings. All pencil drawings must have free hand lettering except for pre-printed title block.
+- Free Hand Lettering: Is to be used except for **CADD** and **ink** drawings. All pencil drawings must have free hand lettering except for pre-printed title block.
 - Working Drawings: shall consist of the following: Multi-view drawings with dimensions necessary for manufacture, and other views such as: isometric, sections, exploded views, assembly views, charts, and notes are acceptable.
 - Pictorials (exploded) can be used as needed for clarity.
 - Working drawings may include exploded assemblies/ pictorials/ rendering to describe the various elements of the working drawings. The pictorials/ exploded assemblies may be rendered/ shown.

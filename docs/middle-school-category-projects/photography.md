@@ -6,7 +6,7 @@ sidebar_position: 11
 
 Items in this category involve projects in which students set-up, shoot, and develop their own photographs for presentation to a specified or general audience.
 
-Photographs: Photos must be taken by the student unless otherwise noted. Maximum printed size for a single photographic entry is 8.5 x 11 inches and for multiple photo classifications the size limit is 22 x 28 inches. Each class will be one photograph unless specified. The photos should be in their RAW or UNEDITED format unless entered in the SPECIAL EFFECTS categories.
+Photographs: Photos must be taken by the student unless otherwise noted. Maximum printed size for a single photographic entry is 8.5 x 11 inches and for multiple photo classifications the size limit is 22 x 28 inches. Each class will be one photograph unless specified. The photos should be in their **raw** or **unedited** format unless entered in the **special effects** categories.
 
 Mounted Entries: Entries cannot be framed except by folded tape or suitable matting material around the perimeter. The complete assembly/mounting material, taped edges, drawings, photos, backing and cover cannot exceed 8-1/2" x 11" for single photographic entry or 22" x 28" for multiple photo classifications. Maximum thickness for single sheet is 0.125 inches.
 

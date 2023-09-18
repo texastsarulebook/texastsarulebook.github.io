@@ -88,7 +88,7 @@ Student will provide an Engineering Portfolio that will be submitted in a three 
 - 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio. Awarded 1st through number of valid entries.
 - 50% Race Results: Points will be awarded based upon flight times.
 
-Each team will be awarded 1st through the number of valid entries for appearance, engineering portfolio and flight results. The lowest combined score wins 1st Place, the second lowest combined score wins 2nd Place, and so on. In case of a tie, the vehicle with the better appearance and engineering portfolio will place higher
+Each team will be awarded 1<sup>st</sup> through the number of valid entries for appearance, engineering portfolio and flight results. The lowest combined score wins 1<sup>st</sup> Place, the second lowest combined score wins 2<sup>nd</sup> Place, and so on. In case of a tie, the vehicle with the better appearance and engineering portfolio will place higher.
 
 ## Gate Information
 

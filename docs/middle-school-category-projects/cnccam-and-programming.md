@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CNC/CAM and Programming
 
-Items in this category involve student created projects in which students used Computer Numerical Control or Computer Aided Manufacturing devices to create projects. Any projects in which CNC mills, lathes, computer controlled lasers, etc. were not used to produce all major components should not be entered in this category.
+Items in this category involve student created projects in which students used Computer Numerical Control (CNC) or Computer Aided Manufacturing (CAM) devices to create projects. Any projects in which CNC mills, lathes, computer controlled lasers, etc. were not used to produce all major components should not be entered in this category.
 
 Judging criteria for production will be based on the following areas: degree of difficulty, appearance, finish, and craftsmanship.
 

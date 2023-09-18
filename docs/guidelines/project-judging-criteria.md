@@ -7,6 +7,6 @@
 - To be considered for the Best in State (BIS) patch, the individual entries must be awarded the first place award for their classification. BIS patches are not automatically given but must be purchased at the designated time.
   Documentation must be computer generated on the required forms. Sketches are allowed on otherwise computer generated forms. Documentation is required for all entries. Deductions can only be applied for lack of content, quality of writing, neatness, completeness of drawings, etc. unless otherwise noted.
 - Judges should read the introduction section for each category to determine the specific documentation requirements for the projects in that area.
-- Judges, at their discretion, may refuse to award a project or entry a ribbon if it is deemed to be of inadequate quality. To ensure that the project was judged and not simply skipped over, the judge will mark the project as JUDGED.
+- Judges, at their discretion, may refuse to award a project or entry a ribbon if it is deemed to be of inadequate quality. To ensure that the project was judged and not simply skipped over, the judge will mark the project as **judged**.
 - High school advisors cannot be used to judge high school projects and the same will criteria will hold true for middle school advisors. Only with the permission of the Contest Director, will Event Coordinators be allowed to violate this rule.
 - The same entry cannot be used in multiple classifications. Further clarification will be provided under each specific section.

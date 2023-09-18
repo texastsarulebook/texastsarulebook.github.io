@@ -11,8 +11,8 @@ sidebar_position: 2
 
 ## Rules
 
-- Racer must be powered by one 8 gram CO2 cart ridge.
-- Racer must fit onto a standard CO2 track.
+- Racer must be powered by one 8 gram CO<sub>2</sub> cart ridge.
+- Racer must fit onto a standard CO<sub>2</sub> track.
 - If a car fails the initial weigh in, the race officials may provide student with an opportunity to bring the racer up or down to weight limits.
 - Any racer deemed unsafe by judges will not be raced.
 - All parts must be made of either wood or plastic. Glass and/or metal parts will be deemed unsafe. Exceptions: axles may be metal, plastic or wood.
@@ -21,8 +21,8 @@ sidebar_position: 2
 
 ## Specifications
 
-- Racer must be powered by one 8 gram CO2 cart ridge.
-- Racer must fit onto a standard CO2 track.
+- Racer must be powered by one 8 gram CO<sub>2</sub> cartridge.
+- Racer must fit onto a standard CO<sub>2</sub> track.
 - If a car fails the initial weigh in, the race officials may provide student with an opportunity to bring the racer up or down to weight limits.
 - Any racer deemed unsafe by judges will not be raced.
 - All parts must be made of either wood or plastic. Glass and/or metal parts will be deemed unsafe. Exceptions: axles may be metal, plastic or wood.
@@ -35,17 +35,15 @@ sidebar_position: 2
 - Cover page with Student ID#, Category #, and Category Name.
 - Table of Contents
 - Research for the design concept
-- Detailed design drawings to scale, no larger than 11" X 17", of all of the parts, subassemblies or final car with appropriate dimensions.
+- Detailed design drawings to scale, no larger than 11" X 17", of all of the parts, subassemblies or final car with appropriate dimensions.
 - Student explanation of their design
 - Pictures documenting the process the build process
 - MLA Cited Sources for Research
 
 ## Judging
 
-- 25% Appearance: Quality of craftsmanship and appearance. Awarded 1st through
-  number of valid entries.
-- 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio.
-  Awarded 1st through number of valid entries.
+- 25% Appearance: Quality of craftsmanship and appearance. Awarded 1<sup>st</sup> through number of valid entries.
+- 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio. Awarded 1<sup>st</sup> through number of valid entries.
 - 50% Race Results: Points will be awarded based upon race times.
 
-Each racer will be awarded 1st through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1st Place, the second lowest combined score wins 2nd Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.
+Each racer will be awarded 1<sup>st</sup> through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1<sup>st</sup> Place, the second lowest combined score wins 2<sup>nd</sup> Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.

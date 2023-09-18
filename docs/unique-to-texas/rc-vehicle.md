@@ -28,14 +28,14 @@ import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 ## Specifications
 
 - Scale: 1/10 or smaller
-- Length: 15” (381 mm) Max
-- Width: 12” (204.8 mm) Max measured from outside of tire to outside of tire
-- Wheelbase: 10” (254 mm) Max
-- Weight: 5.0 lbs (2.27 kg) Max
+- Length: 15” (381 mm) max
+- Width: 12” (204.8 mm) max measured from outside of tire to outside of tire
+- Wheelbase: 10” (254 mm) max
+- Weight: 5.0 lbs (2.27 kg) max
 - Drivetrain: 2WD or 4WD allowed
-- Motor: Brushed 540 Max
+- Motor: Brushed 540 max
 - Radio: 2.4GHz, 2 channel
-- Batteries: 7.4v 1800mAh 6-C Ni-MH Max
+- Batteries: 7.4v 1800mAh 6-C Ni-MH max
 
 ## Documentation
 
@@ -55,7 +55,7 @@ import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 - 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio. Awarded 1st through number of valid entries.
 - 50% Race Results: Points will be awarded based upon race times.
 
-Each racer will be awarded 1st through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1st Place, the second lowest combined score wins 2nd Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.
+Each racer will be awarded 1<sup>st</sup> through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1<sup>st</sup> Place, the second lowest combined score wins 2<sup>nd</sup> Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.
 
 import RequiredPersonalLiabilityForm from '/required-personal-liability-form.mdx'
 

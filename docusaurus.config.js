@@ -77,7 +77,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "rulebookSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Rulebook",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
@@ -144,6 +144,15 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "H5AN8WVXHL",
+
+        // Public API key: it is safe to commit it
+        apiKey: "60c739ff4de5d5aadcd518a226c7f1bd",
+
+        indexName: "texastsarulebook",
       },
     }),
 };

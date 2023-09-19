@@ -47,13 +47,7 @@ const config = {
             "https://github.com/texastsarulebook/texastsarulebook.github.io",
           routeBasePath: "/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/texastsarulebook/texastsarulebook.github.io",
-        },
+        blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -83,7 +77,7 @@ const config = {
             position: "left",
             label: "Rulebook",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/search?q=", label: "Search", position: "left" },
           {
             href: "https://texastsa.org",
             label: "Main Website",
@@ -105,6 +99,10 @@ const config = {
               {
                 label: "Introduction",
                 to: "/",
+              },
+              {
+                label: "Search Rulebook",
+                to: "search?q=",
               },
             ],
           },
@@ -128,10 +126,6 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/texastsarulebook/texastsarulebook.github.io",
@@ -157,6 +151,14 @@ const config = {
         apiKey: "60c739ff4de5d5aadcd518a226c7f1bd",
 
         indexName: "texastsarulebook",
+      },
+      announcementBar: {
+        id: "important_information",
+        content:
+          "UTE event information is under review and updates will be shared soon.",
+        backgroundColor: "#2e8555",
+        textColor: "#fff",
+        isCloseable: false,
       },
     }),
 };

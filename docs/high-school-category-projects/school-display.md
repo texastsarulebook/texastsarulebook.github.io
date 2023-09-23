@@ -11,3 +11,11 @@ Entries may be for exhibit only and awards may or may not be earned as determine
 Maximum display size: 3 feet wide x 18 inches deep x 4 feet high **unless otherwise specified in rules**.
 
 :::
+
+| Event                                                       | Class. No. |
+| ----------------------------------------------------------- | ---------- |
+| School Display - Activities in more than 2 curriculum areas | HP8113     |
+| School Display - Communication Technology                   | HP8114     |
+| School Display - Power/Energy/Tranpiration                  | HP8115     |
+| School Display - Manufacturing/Construction                 | HP8116     |
+| School Display - Bio-Tech                                   | HP8117     |

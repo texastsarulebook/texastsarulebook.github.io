@@ -25,6 +25,18 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 <CommonDocumentation />
 
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
 | Event                                                                                           | Class. No. |
 | ----------------------------------------------------------------------------------------------- | ---------- |
 | Student Original - Computer Graphics - Black/White                                              | MP2300     |

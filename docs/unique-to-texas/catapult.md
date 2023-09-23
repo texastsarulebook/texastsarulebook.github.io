@@ -10,6 +10,12 @@ A catapult is a mechanism used to forcefully propelling stones, spears, or other
 | -------- | ---------------- | ------------------------ | ---------------------- |
 | Catapult | 5                | MU109                    | HU109                  |
 
+:::note Team type
+
+The team type classification for this event is **Team**.
+
+:::
+
 ## Team
 
 A team is made of 2-4 members. There is a limit of one catapult team per chapter.

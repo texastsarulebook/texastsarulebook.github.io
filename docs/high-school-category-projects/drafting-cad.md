@@ -58,6 +58,28 @@ All drawings except Presentation Drawings must be plain printed. Presentation dr
 
 **The bold face word CADD means CADD only. All work must be done in CADD. Note: All manual drawings can be either pencil or ink.**
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## Engineering Design
 
 For the Engineering Section this category: symbols, lettering, and standards should be used as appropriate. Common industrial practices and time savers may be used. Shading, rendering and coloring may be used in presentation drawings and pictorials on working drawings.

@@ -14,6 +14,28 @@ Part: Refers to student manufactured pieces. Does not include purchased or prepa
 
 :::
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## CNC/CAM - Wood
 
 ### Mill/Router

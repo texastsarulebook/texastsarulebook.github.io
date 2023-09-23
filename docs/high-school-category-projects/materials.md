@@ -6,6 +6,28 @@ sidebar_position: 4
 
 Items in this category involve student created projects in which students used traditional and modern woodworking tools, methods, and techniques to create projects. Purchased materials such as glass, mirrors, and hardware must be listed in documentation and do not count as an additional construction material.
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## All Other Materials
 
 Projects in this category are entirely made of one material other than wood or metal. Example projects include but not limited to RC car body, walking cane, artistic statue, PVC catapult, and drinking glass.

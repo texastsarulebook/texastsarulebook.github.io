@@ -8,7 +8,7 @@ Participating schools must supply all necessary software, hardware, paper, etc. 
 
 :::note Please Note
 
-Limited to three participants per region in each classification. These events will only be offered one time at state contest.
+These events will only be offered one time at state contest.
 
 :::
 
@@ -17,3 +17,9 @@ Limited to three participants per region in each classification. These events wi
 | Animation                | 5                | MU114                    | HU114                  |
 | Graphic Design, Artistic | 5                | MU115                    | HU115                  |
 | Multi-Media Presentation | 5                | MU116                    | HU116                  |
+
+:::note Team type
+
+The team type classification for this event is **Individual**.
+
+:::

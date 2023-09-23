@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/texastsarulebook/texastsarulebook.github.io",
+            "https://github.com/texastsarulebook/texastsarulebook.github.io/blob/main",
           routeBasePath: "/",
         },
         blog: false,
@@ -78,6 +78,11 @@ const config = {
             label: "Rulebook",
           },
           { to: "/search?q=", label: "Search", position: "left" },
+          {
+            href: "https://docs.google.com/document/d/1TXw9IUOEnjb6GJHtxWeLVdZaycylXNx2VqtWmb8cKLI/edit?usp=sharing",
+            label: "FAQ",
+            position: "right",
+          },
           {
             href: "https://texastsa.org",
             label: "Main Website",
@@ -156,7 +161,7 @@ const config = {
         id: "important_information",
         content:
           "UTE event information is under review and updates will be shared soon.",
-        backgroundColor: "#2e8555",
+        backgroundColor: "#3c4ead",
         textColor: "#fff",
         isCloseable: false,
       },

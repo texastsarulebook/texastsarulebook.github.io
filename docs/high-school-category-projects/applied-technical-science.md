@@ -10,6 +10,28 @@ Entries must be complete and in safe operating condition. All devices and produc
 
 MAXIMUM DISPLAY SIZE: 3 FT WIDE X 18 INCHES DEEP X 4 FT HIGH UNLESS OTHERWISE SPECIFIED IN RULES.
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## Multidisciplinary
 
 | Event                                                                                                        | Class. No |
@@ -228,27 +250,3 @@ Must include the robot (may or may not be in working condition), engineering not
 | Event                                                       | Class. No. |
 | ----------------------------------------------------------- | ---------- |
 | Remote Operated Vehicle Display (Underwater Robotic R.O.V.) | HP8110     |
-
-## Safety Poster
-
-A poster to illustrate safety principles in the classroom environment or in the workplace.
-
-- Poster Sizes allowed: 18 x 24, 22 x 28, or 24 x 36 (sizes are in inches)
-- Safety posters may be computer generated or printed.
-- Posters cannot be framed but can be laminated.
-
-| Event         | Class. No. |
-| ------------- | ---------- |
-| Safety Poster | HP8111     |
-
-## School Display
-
-Entries may be for exhibit only and awards may or may not be earned as determined by contest judges. Student must tell the contest coordinator if the entry is “For Judging” or “For Display Only” prior to judging. A team must have produced a product or solved a technological problem. Individual projects are not entered in these classifications. The contest director may refuse entry of a school display due to safety or space availability. School displays must be approved by the contest director, two weeks prior to state contest. MAXIMUM DISPLAY SIZE: 3 feet wide x 18 inches deep x 4 feet high UNLESS OTHERWISE SPECIFIED IN RULES.
-
-| Event                                                       | Class. No. |
-| ----------------------------------------------------------- | ---------- |
-| School Display - Activities in more than 2 curriculum areas | HP8113     |
-| School Display - Communication Technology                   | HP8114     |
-| School Display - Power/Energy/Tranpiration                  | HP8115     |
-| School Display - Manufacturing/Construction                 | HP8116     |
-| School Display - Bio-Tech                                   | HP8117     |

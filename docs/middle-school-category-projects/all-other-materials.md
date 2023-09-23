@@ -10,6 +10,18 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 <CommonDocumentation />
 
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
 | Event                             | Side A | Side B | Side C | Class. No. |
 | --------------------------------- | ------ | ------ | ------ | ---------- |
 | PVC - No side dimension to exceed | 3      | 24     | 24     | MP2086     |

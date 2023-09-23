@@ -4,7 +4,7 @@ Follow the procedure below that applies to your scenario for filing a protest.
 
 ## Category Projects and Onsite Protest Process
 
-Process to be determined.
+Advisors will complete a Google Form with their protest. The Protest Chair will review the protest and make their decision.
 
 :::tip Download Grievance Form
 

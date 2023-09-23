@@ -8,6 +8,28 @@ Items in this category involve student created projects in which students used t
 
 Judging criteria for production will be based on the following areas: degree of difficulty, appearance, finish, and craftsmanship.
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## Manual Turning (No CNC)
 
 Projects in this category are crafted using traditional lathe and turning tools. Example projects include but not limited to lamps, candlesticks, walking canes, and bowls.

@@ -9,6 +9,12 @@ sidebar_position: 2
 | Research Racer - Wood        | 5                | MU102                    | HU102                  |
 | Research Racer - ABS Plastic | 5                | MU103                    | HU103                  |
 
+:::note Team type
+
+The team type classification for this event is **Individual**.
+
+:::
+
 ## Rules
 
 - Racer must be powered by one 8 gram CO<sub>2</sub> cart ridge.

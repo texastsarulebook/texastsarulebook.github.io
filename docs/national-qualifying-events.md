@@ -52,85 +52,85 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 
 ### Middle School NQE
 
-| Event                      | Limits                               |
-| -------------------------- | ------------------------------------ |
-| Biotechnology              | 3 per region                         |
-| CAD Foundations            | 3 per region - only two per chapter  |
-| Career Prep                | 3 per region - limit one per chapter |
-| Challenging Tech Issues    | 3 per region                         |
-| Chapter Team               | 3 per region - limit one per chapter |
-| Children's Stories         | 3 per region                         |
-| Coding                     | 3 per region - limit one per chapter |
-| Community Service Video    | 3 per region - limit one per chapter |
-| Construction Challenge     | 3 per region - limit one per chapter |
-| Cybersecurity              | 3 per region - limit one per chapter |
-| Data Science and Analytics | 3 per region                         |
-| Digital Photography        | 3 per region                         |
-| Dragster                   | 6 per region - limit 2 per chapter   |
-| Electrical Applications    | 3 per region - limit one per chapter |
-| Essays on Technology       | 3 per region                         |
-| Flight                     | 6 per region - limit 2 per chapter   |
-| Forensic Technology        | 3 per region - limit one per chapter |
-| Foundations of IT          | 3 per region - limit 2 per chapter   |
-| Inventions and Innovations | 3 per region - limit one per chapter |
-| Junior Solar Sprint        | 3 per region - limit one per chapter |
-| Leadership Strategies      | 3 per region                         |
-| Mass Production            | 3 per region - limit one per chapter |
-| Mechanical Engineering     | 3 per region - limit one per chapter |
-| Medical Technology         | 3 per region                         |
-| Microcontroller Design     | 3 per region - limit one per chapter |
-| Off the Grid               | 3 per region                         |
-| Prepared Speech            | 2 per region                         |
-| Problem Solving            | 3 per region - limit one per chapter |
-| Promotional Marketing      | 3 per region - limit one per chapter |
-| STEM Animation             | 3 per region                         |
-| Structural Engineering     | 3 per region - limit one per chapter |
-| System Control Technology  | 3 per region                         |
-| Tech Bowl                  | 3 per region - limit one per chapter |
-| Technical Design           | 3 per region - limit one per chapter |
-| Video Game Design          | 3 per region - limit one per chapter |
-| Website Design             | 3 per region - limit one per chapter |
+| Event                             | Team       | Entries / region |
+| --------------------------------- | ---------- | ---------------- |
+| Biotechnology Design              | Team       | 3                |
+| Computer-Aided Design Foundations | Individual | 3                |
+| Career Prep                       | Individual | 3                |
+| Challenging Technology Issues     | Team       | 3                |
+| Chapter Team                      | Team       | 3                |
+| Children's Stories                | Team       | 3                |
+| Coding                            | Team       | 3                |
+| Community Service Video           | Team       | 3                |
+| Construction Challenge            | Team       | 3                |
+| Digital Photography               | Individual | 3                |
+| Dragster                          | Individual | 6                |
+| Electrical Applications           | Team       | 3                |
+| Essays on Technology              | IndividuaL | 2                |
+| Flight                            | Individual | 6                |
+| Forensic Technology               | Team       | 3                |
+| Inventions and Innovations        | Team       | 3                |
+| Junior Solar Sprint               | Team       | 3                |
+| Leadership Strategies             | Team       | 3                |
+| Mass Production                   | Team       | 3                |
+| Mechanical Engineering            | Team       | 3                |
+| Medical Technology Issues         | Team       | 3                |
+| Microcontroller Design            | Team       | 3                |
+| Off The Grid                      | Team       | 3                |
+| Prepared Speech                   | Individual | 3                |
+| Problem Solving                   | Team       | 3                |
+| Promotional Marketing             | Individual | 3                |
+| STEM Animation                    | Team       | 3                |
+| Structural Engineering            | Team       | 3                |
+| System Control Technology         | Team       | 3                |
+| Tech Bowl                         | Team       | 3                |
+| Technical Design                  | Team       | 3                |
+| Video Game Design                 | Team       | 3                |
+| Website Design                    | Team       | 3                |
+| Cyber Security                    | Individual | 3                |
+| Data Science and Analytics        | Team       | 3                |
+| Vlogging                          | Team       | 3                |
 
 ### High School NQE
 
-| Event                               | Limits                               |
-| ----------------------------------- | ------------------------------------ |
-| Animatronics                        | 3 per region - limit one per chapter |
-| Architectural Design                | 3 per region - limit one per chapter |
-| Audio Podcasting                    | 3 per region                         |
-| Biotechnology Design                | 3 per region - limit one per chapter |
-| Board Game Design                   | 3 per region - limit one per chapter |
-| CAD Architecture                    | 3 per region - limit two per chapter |
-| CAD Engineering                     | 3 per region - limit two per chapter |
-| Chapter Team                        | 3 per region - limit one per chapter |
-| Children's Stories                  | 3 per region                         |
-| Coding                              | 3 per region                         |
-| Data Science and Analytics          | 3 per region                         |
-| Debating Technology Issues          | 2 per region                         |
-| Digital Video Production            | 3 per region                         |
-| Dragster Design                     | 6 per region - limit two per chapter |
-| Drone Challenge (UAV)               | 3 per region                         |
-| Engineering Design                  | 3 per region                         |
-| Essays on Technology                | 3 per region                         |
-| Extemporaneous Speech               | 2 per region                         |
-| Fashion Design and Technology       | 3 per region                         |
-| Flight Endurance                    | 6 per region - limit two per chapter |
-| Forensic Science                    | 3 per region - limit one per chapter |
-| Future Tech and Engineering Teacher | 3 per region                         |
-| Geospatial Technology               | 3 per region - limit one per chapter |
-| Manufacturing Prototype             | 3 per region - limit one per chapter |
-| Music Production                    | 3 per region                         |
-| On Demand Video                     | 3 per region - limit one per chapter |
-| Photographic Technology             | 3 per region - limit one per chapter |
-| Prepared Presentation               | 2 per region                         |
-| Promotional Design                  | 3 per region                         |
-| Senior Solar Sprint                 | 3 per region - limit one per chapter |
-| Software Development                | 3 per region - limit one per chapter |
-| Structural Design and Engineering   | 3 per region - limit one per chapter |
-| System Control Technology           | 3 per region                         |
-| Technology Bowl                     | 3 per region - limit one per chapter |
-| Technology Problem Solving          | 3 per region - limit one per chapter |
-| Transportation Modeling             | 3 per region - limit one per chapter |
-| Video Game Design                   | 3 per region                         |
-| Virtual Reality Visualization       | 3 per region - limit one per chapter |
-| Webmaster                           | 3 per region - limit one per chapter |
+| Event                                   | Team       | Entries / region |
+| --------------------------------------- | ---------- | ---------------- |
+| Animatronics                            | Team       | 3                |
+| Architectural Design                    | Team       | 3                |
+| Biotechnology Design                    | Team       | 3                |
+| Board Game Design                       | Team       | 3                |
+| Chapter Team                            | Team       | 3                |
+| Children's Stories                      | Team       | 3                |
+| Coding                                  | Team       | 3                |
+| Computer-Aided Design, Architecture     | Individual | 3                |
+| Computer-Aided Design, Engineering      | Individual | 3                |
+| Debating Technological Issues	Team      | Team       | 2                |
+| Digital Video Production                | Team       | 3                |
+| Dragster Design                         | Individual | 6                |
+| Engineering Design                      | Team       | 3                |
+| Essays on Technology                    | Individual | 2                |
+| Extemporaneous Speech                   | Individual | 2                |
+| Fashion Design & Technology             | Team       | 3                |
+| Flight Endurance                        | Individual | 3                |
+| Forensic Science                        | Team       | 6                |
+| Future Technology & Engineering Teacher | Individual | 3                |
+| Music Production                        | Team       | 3                |
+| On Demand Video                         | Team       | 3                |
+| Photographic Technology                 | Individual | 3                |
+| Prepared Presentation                   | Individual | 2                |
+| Promotional Design                      | Individual | 3                |
+| Software Development                    | Team       | 3                |
+| Structural Design & Engineering         | Team       | 3                |
+| System Control Technology               | Team       | 3                |
+| Technology Bowl                         | Team       | 3                |
+| Technology Problem Solving              | Team       | 3                |
+| Transportation Modeling                 | Individual | 3                |
+| Video Game Design                       | Team       | 3                |
+| Webmaster                               | Team       | 3                |
+| Data Science & Analytics                | Team       | 3                |
+| Geospatial Technology                   | Team       | 3                |
+| Audio Podcasting                        | Team       | 3                |
+| Drone Challenge (UAV)                   | Team       | 3                |
+| Manufacturing Prototype                 | Team       | 3                |
+| Senior Solar Sprint                     | Team       | 3                |
+| Virtual Reality (VR)                    | Team       | 3                |

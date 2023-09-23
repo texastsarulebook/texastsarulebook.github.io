@@ -12,6 +12,18 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 <CommonDocumentation />
 
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
 ## Decorative
 
 Projects in this category are entirely made of metal for the primary use to be for decoration. Example projects include but not limited to signs, yard art, table inlays, and furniture.

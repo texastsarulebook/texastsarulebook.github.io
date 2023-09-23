@@ -21,10 +21,16 @@ This competition will test the student’s ability to solve a given problem with
 
 | Event                            | Entries / Region | Class. No. |
 | -------------------------------- | ---------------- | ---------- |
-| Technology Problem Solving       | 5                | MU310      |
-| Architecture and Construction    | 5                | MU311      |
-| Engineering and Design           | 5                | MU312      |
-| Promotional Design and Marketing | 5                | MU313      |
-| Manufacturing Design             | 5                | MU314      |
-| Information Technology           | 5                | MU315      |
-| Biotechnology                    | 5                | MU316      |
+| Technology Problem Solving       | 5                | HU310      |
+| Architecture and Construction    | 5                | HU311      |
+| Engineering and Design           | 5                | HU312      |
+| Promotional Design and Marketing | 5                | HU313      |
+| Manufacturing Design             | 5                | HU314      |
+| Information Technology           | 5                | HU315      |
+| Biotechnology                    | 5                | HU316      |
+
+:::note Team type
+
+The team type classification for this event is **Individual**.
+
+:::

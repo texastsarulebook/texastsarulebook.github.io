@@ -15,6 +15,12 @@ import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 | --------------------- | ---------------- | ------------------------ | ---------------------- |
 | RC Vehicle - Electric | 5                | MU104                    | HU104                  |
 
+:::note Team type
+
+The team type classification for this event is **Team**.
+
+:::
+
 ## Rules
 
 - The race will be divided into heats by classification. Each heat will have between 2-4 cars each.

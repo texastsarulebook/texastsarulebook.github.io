@@ -4,10 +4,6 @@ sidebar_position: 7
 
 # Photography
 
-<!--
-TODO: Include standard disclaimers.
--->
-
 Items in this category involve projects in which students set-up, shoot, and develop their own photographs for presentation to a specified or general audience.
 
 Photographs: Photos must be taken by the student unless otherwise noted. Maximum printed size for a single photographic entry is 8.5 x 11 inches and for multiple photo classifications the size limit is 22 x 28 inches. Each class will be one photograph unless specified.
@@ -15,6 +11,28 @@ Photographs: Photos must be taken by the student unless otherwise noted. Maximum
 Mounted Entries: Entries cannot be framed except by folded tape or suitable matting material around the perimeter. The complete assembly/mounting material, taped edges, drawings, photos, backing and cover cannot exceed 8-1/2" x 11" for single photographic entry or 22" x 28" for multiple photo classifications. Maximum thickness for single sheet is 0.125 inches.
 
 Printing: Photo is developed by the student in a traditional film processing lab using traditional methods and practices, or digitally in the lab, classroom, at home, etc. or in a professional lab, photo store, or commercial setting.
+
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
 
 ## Wildlife Photography - Action/Motion
 
@@ -119,8 +137,8 @@ Product photography, or e-commerce photography as it's sometimes known, is basic
 
 | Event                                                                             | Class. No. |
 | --------------------------------------------------------------------------------- | ---------- |
-| Black/White: One photograph of a single product to be used in sales & advertising | HP2424     |
-| Color: One photograph of a single product to be used in sales & advertising       | HP2425     |
+| Black/White: One photograph of a single product to be used in sales & advertising | HP6424     |
+| Color: One photograph of a single product to be used in sales & advertising       | HP6425     |
 
 ## Still Life Photography
 
@@ -128,15 +146,15 @@ Still life photography encompasses everything that is an inanimate subject in fr
 
 | Event                                  | Class. No. |
 | -------------------------------------- | ---------- |
-| Black/White Still Life: One photograph | HP2426     |
-| Color Still Life: One photograph       | HP2427     |
+| Black/White Still Life: One photograph | HP6426     |
+| Color Still Life: One photograph       | HP6427     |
 
 ## Other
 
 | Event                                                          | Class. No. |
 | -------------------------------------------------------------- | ---------- |
-| Black/White Other Photo not listed above (Not special effects) | HP2428     |
-| Color Other Photo (Not special effects)                        | HP2429     |
+| Black/White Other Photo not listed above (Not special effects) | HP6428     |
+| Color Other Photo (Not special effects)                        | HP6429     |
 
 ## Special Effects Photo Entries
 
@@ -156,10 +174,10 @@ Special effects depend on the basic belief that photographs don't lie. They expl
 
 | Event                                                        | Class. No. |
 | ------------------------------------------------------------ | ---------- |
-| B/W Special Effects - 1 photo - single effect/process        | MP6240     |
-| Color Special Effects - 1 photo - single effect/process      | MP6241     |
-| B/W Special Effects - 1 photo - multiple effects/processes   | MP6242     |
-| Color Special Effects - 1 photo - multiple effects/processes | MP6243     |
+| B/W Special Effects - 1 photo - single effect/process        | HP6240     |
+| Color Special Effects - 1 photo - single effect/process      | HP6241     |
+| B/W Special Effects - 1 photo - multiple effects/processes   | HP6242     |
+| Color Special Effects - 1 photo - multiple effects/processes | HP6243     |
 
 ## Multiple Photo Entries
 

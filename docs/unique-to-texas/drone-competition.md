@@ -20,6 +20,12 @@ import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 | ----------------- | ---------------- | ------------------------ | ---------------------- |
 | Drone Competition | 5                | MU108                    | HU108                  |
 
+:::note Team type
+
+The team type classification for this event is **Team**.
+
+:::
+
 The TSA Rover is printed at 13% infill (10%-15% infill) and no scaling needed. It weighs around 36 grams.
 
 :::note .STL File

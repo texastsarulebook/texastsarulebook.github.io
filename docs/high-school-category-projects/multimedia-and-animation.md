@@ -4,10 +4,6 @@ sidebar_position: 6
 
 # Multimedia and Animation
 
-<!--
-TODO: Include standard disclaimers.
--->
-
 Items in this category involve student created projects in which students used Multimedia & Animation Technology to create 2D and 3D projects. Multimedia includes video, audio, graphics, and animation.
 
 Multimedia: Entries must include two or more communications methods. A story board and brief description of the two or more communications methods used must be included.
@@ -39,6 +35,28 @@ Entries that depict sex, drugs, tobacco, gangs, violence, or cults will not be p
 :::tip
 
 Documentation is to be considered only when projects are being considered for a Best In State (BIS). Documentation should not be discounted because of method used - hand drawn/written vs. computer created/drawn.
+
+:::
+
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
 
 :::
 

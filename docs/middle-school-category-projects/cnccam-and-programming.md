@@ -12,6 +12,18 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 <CommonDocumentation />
 
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
 ## CNC/CAM - Wood
 
 ### Mill/Router
@@ -118,3 +130,4 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 | CNC/CAM - Vinyl Cutter - Multi Color - 8 x 10"              | MP1976     |
 | CNC/CAM - Vinyl Cutter - Single Color - Large Format        | MP1977     |
 | CNC/CAM - Vinyl Cutter - Multi Color - Large Format         | MP1978     |
+

@@ -25,7 +25,7 @@ Pamela Cook
 
 ## National Qualifying Event (NQE) Managers
 
-Ricky Broussard and Kristin Rausch  
+Cody Logsdon and Kristin Rausch  
 [nqe@texastsa.org](mailto:nqe@texastsa.org)
 
 ## VEX Coordinator

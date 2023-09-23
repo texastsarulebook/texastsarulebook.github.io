@@ -27,6 +27,28 @@ Entries that depict sex, drugs, tobacco, gangs, violence, or cults will not be p
 
 :::
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## Graphic Design
 
 Items in this category involve student created projects in which students used traditional and modern methods, equipment, and processes to create grphic design projects.

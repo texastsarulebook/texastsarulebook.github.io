@@ -9,6 +9,28 @@ Items in this category involve projects in which students created and designed s
 - Maximum base size for models: 30" x 42" (unless otherwise stated)
 - Model must have hard copy of plan view (A bird's eye view of the ground floor)
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 ## Models - Architectural
 
 This category is for finished models with detailing, full landscaping, sidewalks, trees, cars, people, etc.

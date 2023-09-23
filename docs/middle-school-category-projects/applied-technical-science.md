@@ -12,6 +12,18 @@ import CommonDocumentation from '/middle-school-common-documentation.mdx'
 
 <CommonDocumentation />
 
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
 :::note Important
 
 Maximum Display Size: 3ft. wide x 18 inches deep x 4 ft. high unless otherwise specified in rules.

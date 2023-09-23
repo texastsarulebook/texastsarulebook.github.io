@@ -11,9 +11,14 @@ Hot Rod Competition (HRC) provides technology students with another opportunity 
 | Hot Rod CO<sub>2</sub> Car Competition - Wood        | 5                | MU100                    | HU100                  |
 | Hot Rod CO<sub>2</sub> Car Competition - ABS Plastic | 5                | MU101                    | HU101                  |
 
+:::note Team type
+
+The team type classification for this event is **Individual**.
+
+:::
+
 :::info Upcoming Themes
 
-2023: NHRA Top Fuel Dragsters - must include an engine, seat, exhaust, removeable body shroud, and roll cage over the driver seat.  
 2024: Formula 1 Race Car – realistic model with exposed wheels/tires, cowl induction, front spoiler and rear spoiler, and a roll cage over the driver compartment.  
 2025: NHRA Funny Car – must include an engine, seat, exhaust, removeable body shroud, and roll cage over the driver seat.  
 2026: Pro Stock Pickup - must include an engine, seat, exhaust, removeable body shroud, and roll cage over the driver seat.  

@@ -8,6 +8,28 @@ Items in this category involve student created projects in which students used t
 
 Judging criteria for production will be based on the following areas: degree of difficulty, appearance, finish, and craftsmanship.
 
+import CommonDocumentation from '/high-school-common-documentation.mdx'
+
+<CommonDocumentation />
+
+:::note Team type
+
+The team type classification for events in this category is **Individual**.
+
+:::
+
+:::note Entries / region
+
+For projects in this category, the maximum number of entries per region is **7**.
+
+:::
+
+:::info Skill Levels
+
+For each of the classification numbers, there is a **beginner** skill level and an **experienced** skill level.
+
+:::
+
 # Decorative
 
 Projects in this category are entirely made of metal for the primary use to be for decoration. Example projects include but not limited to signs, yard art, table inlays, and furniture.

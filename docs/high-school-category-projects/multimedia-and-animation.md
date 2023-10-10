@@ -132,7 +132,7 @@ Must supply original footage/audio and finished copy.
 | Computer Generated Original 3D Transportation                                                                              | HP6136     |
 | Computer Generated Original 3D - Not mentioned above                                                                       | HP6137     |
 | Computer Generated Original Drawing Or Painting - Black/White (Paint Program)                                              | HP6138     |
-| Computer Generated Original Drawing or Painting - Color (Paint Program) HP6139                                             |
+| Computer Generated Original Drawing or Painting - Color (Paint Program)                                                    | HP6139     |
 | Computer Scanner Object(s) - (Example: Montage)                                                                            | HP6140     |
 | Computer Manipulated Scanned Image: Scanned image(s) which have been computer manipulated. Must include original image(s)  | HP6141     |
 | Computer Manipulated Digital Image: Digital image(s) which have been computer manipulated. Must include original image(s). | HP6142     |

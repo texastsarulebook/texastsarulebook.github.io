@@ -1,4 +1,4 @@
----
+ ---
 sidebar_position: 2
 ---
 
@@ -52,85 +52,87 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 
 ### Middle School NQE
 
-| Event                             | Team       | Entries / region |
-| --------------------------------- | ---------- | ---------------- |
-| Biotechnology Design              | Team       | 3                |
-| Computer-Aided Design Foundations | Individual | 3                |
-| Career Prep                       | Individual | 3                |
-| Challenging Technology Issues     | Team       | 3                |
-| Chapter Team                      | Team       | 3                |
-| Children's Stories                | Team       | 3                |
-| Coding                            | Team       | 3                |
-| Community Service Video           | Team       | 3                |
-| Construction Challenge            | Team       | 3                |
-| Digital Photography               | Individual | 3                |
-| Dragster                          | Individual | 6                |
-| Electrical Applications           | Team       | 3                |
-| Essays on Technology              | IndividuaL | 2                |
-| Flight                            | Individual | 6                |
-| Forensic Technology               | Team       | 3                |
-| Inventions and Innovations        | Team       | 3                |
-| Junior Solar Sprint               | Team       | 3                |
-| Leadership Strategies             | Team       | 3                |
-| Mass Production                   | Team       | 3                |
-| Mechanical Engineering            | Team       | 3                |
-| Medical Technology Issues         | Team       | 3                |
-| Microcontroller Design            | Team       | 3                |
-| Off The Grid                      | Team       | 3                |
-| Prepared Speech                   | Individual | 3                |
-| Problem Solving                   | Team       | 3                |
-| Promotional Marketing             | Individual | 3                |
-| STEM Animation                    | Team       | 3                |
-| Structural Engineering            | Team       | 3                |
-| System Control Technology         | Team       | 3                |
-| Tech Bowl                         | Team       | 3                |
-| Technical Design                  | Team       | 3                |
-| Video Game Design                 | Team       | 3                |
-| Website Design                    | Team       | 3                |
-| Cyber Security                    | Individual | 3                |
-| Data Science and Analytics        | Team       | 3                |
-| Vlogging                          | Team       | 3                |
+| Event                             | Team       | Entries / region | State Chapter Limits |
+| --------------------------------- | ---------- | ---------------- | -------------------- |
+| Biotechnology Design              | Team       | 3                | NA                   |
+| Computer-Aided Design Foundations | Individual | 3                | 2                    |
+| Career Prep                       | Individual | 3                | NA                   |
+| Challenging Technology Issues     | Team       | 3                | 1                    |
+| Chapter Team                      | Team       | 3                | 1                    |
+| Children's Stories                | Team       | 3                | NA                   |
+| Coding                            | Team       | 3                | 1                    |
+| Community Service Video           | Team       | 3                | 1                    |
+| Construction Challenge            | Team       | 3                | 1                    |
+| Cyber Security                    | Individual | 3                | 3                    |
+| Data Science and Analytics        | Team       | 3                | NA                   |
+| Digital Photography               | Individual | 3                | NA                   |
+| Dragster                          | Individual | 6                | 2                    |
+| Electrical Applications           | Team       | 3                | 1                    |
+| Essays on Technology              | IndividuaL | 2                | NA                   |
+| Flight                            | Individual | 6                | 2                    |
+| Forensic Technology               | Team       | 3                | 1                    |
+| Inventions and Innovations        | Team       | 3                | 1                    |
+| Junior Solar Sprint               | Team       | 3                | 1                    |
+| Leadership Strategies             | Team       | 3                | NA                   |
+| Mass Production                   | Team       | 3                | 1                    |
+| Mechanical Engineering            | Team       | 3                | 1                    |
+| Medical Technology Issues         | Team       | 3                | NA                   |
+| Microcontroller Design            | Team       | 3                | 1                    |
+| Off The Grid                      | Team       | 3                | NA                   |
+| Prepared Speech                   | Individual | 3                | NA                   |
+| Problem Solving                   | Team       | 3                | 1                    |
+| Promotional Marketing             | Individual | 3                | 1                    |
+| STEM Animation                    | Team       | 3                | NA                   |
+| Structural Engineering            | Team       | 3                | 1                    |
+| System Control Technology         | Team       | 3                | NA                   |
+| Tech Bowl                         | Team       | 3                | 1                    |
+| Technical Design                  | Team       | 3                | 1                    |
+| Video Game Design                 | Team       | 3                | 1                    |
+| Vlogging                          | Team       | 3                | NA                   |
+| Website Design                    | Team       | 3                | 2                    |
 
 ### High School NQE
 
-| Event                                   | Team       | Entries / region |
-| --------------------------------------- | ---------- | ---------------- |
-| Animatronics                            | Team       | 3                |
-| Architectural Design                    | Team       | 3                |
-| Biotechnology Design                    | Team       | 3                |
-| Board Game Design                       | Team       | 3                |
-| Chapter Team                            | Team       | 3                |
-| Children's Stories                      | Team       | 3                |
-| Coding                                  | Team       | 3                |
-| Computer-Aided Design, Architecture     | Individual | 3                |
-| Computer-Aided Design, Engineering      | Individual | 3                |
-| Debating Technological Issues	Team      | Team       | 2                |
-| Digital Video Production                | Team       | 3                |
-| Dragster Design                         | Individual | 6                |
-| Engineering Design                      | Team       | 3                |
-| Essays on Technology                    | Individual | 2                |
-| Extemporaneous Speech                   | Individual | 2                |
-| Fashion Design & Technology             | Team       | 3                |
-| Flight Endurance                        | Individual | 3                |
-| Forensic Science                        | Team       | 6                |
-| Future Technology & Engineering Teacher | Individual | 3                |
-| Music Production                        | Team       | 3                |
-| On Demand Video                         | Team       | 3                |
-| Photographic Technology                 | Individual | 3                |
-| Prepared Presentation                   | Individual | 2                |
-| Promotional Design                      | Individual | 3                |
-| Software Development                    | Team       | 3                |
-| Structural Design & Engineering         | Team       | 3                |
-| System Control Technology               | Team       | 3                |
-| Technology Bowl                         | Team       | 3                |
-| Technology Problem Solving              | Team       | 3                |
-| Transportation Modeling                 | Individual | 3                |
-| Video Game Design                       | Team       | 3                |
-| Webmaster                               | Team       | 3                |
-| Data Science & Analytics                | Team       | 3                |
-| Geospatial Technology                   | Team       | 3                |
-| Audio Podcasting                        | Team       | 3                |
-| Drone Challenge (UAV)                   | Team       | 3                |
-| Manufacturing Prototype                 | Team       | 3                |
-| Senior Solar Sprint                     | Team       | 3                |
-| Virtual Reality (VR)                    | Team       | 3                |
+| Event                                   | Team       | Entries / region | State Chapter Limits |
+| --------------------------------------- | ---------- | ---------------- | -------------------- |
+| Animatronics                            | Team       | 3                | NA                   |
+| Architectural Design                    | Team       | 3                | 1                    |
+| Audio Podcasting                        | Team       | 3                | NA                   |
+| Biotechnology Design                    | Team       | 3                | 1                    |
+| Board Game Design                       | Team       | 3                | 1                    |
+| Chapter Team                            | Team       | 3                | 1                    |
+| Children's Stories                      | Team       | 3                | NA                   |
+| Coding                                  | Team       | 3                | 1                    |
+| Computer-Aided Design, Architecture     | Individual | 3                | 2                    |
+| Computer-Aided Design, Engineering      | Individual | 3                | 2                    |
+| Data Science & Analytics                | Team       | 3                | NA                   |
+| Debating Technological Issues	Team      | Team       | 2                | NA                   |
+| Digital Video Production                | Team       | 3                | NA                   |
+| Dragster Design                         | Individual | 6                | 2                    |
+| Drone Challenge (UAV)                   | Team       | 3                | NA                   |
+| Engineering Design                      | Team       | 3                | NA                   |
+| Essays on Technology                    | Individual | 2                | NA                   |
+| Extemporaneous Speech                   | Individual | 2                | NA                   |
+| Fashion Design & Technology             | Team       | 3                | NA                   |
+| Flight Endurance                        | Individual | 3                | 2                    |
+| Forensic Science                        | Team       | 6                | 1                    |
+| Future Technology & Engineering Teacher | Individual | 3                | 3                    |
+| Geospatial Technology                   | Team       | 3                | 1                    |
+| Manufacturing Prototype                 | Team       | 3                | 1                    |
+| Music Production                        | Team       | 3                | NA                   |
+| On Demand Video                         | Team       | 3                | 1                    |
+| Photographic Technology                 | Individual | 3                | 1                    |
+| Prepared Presentation                   | Individual | 2                | NA                   |
+| Promotional Design                      | Individual | 3                | NA                   |
+| Senior Solar Sprint                     | Team       | 3                | 1                    |
+| Software Development                    | Team       | 3                | 1                    |
+| Structural Design & Engineering         | Team       | 3                | 1                    |
+| System Control Technology               | Team       | 3                | 2                    |
+| Technology Bowl                         | Team       | 3                | 1                    |
+| Technology Problem Solving              | Team       | 3                | 1                    |
+| Transportation Modeling                 | Individual | 3                | 1                    |
+| Video Game Design                       | Team       | 3                | NA                   |
+| Virtual Reality (VR)                    | Team       | 3                | 1                    |
+| Webmaster                               | Team       | 3                | 1                    |
+
+

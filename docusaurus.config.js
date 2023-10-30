@@ -157,14 +157,6 @@ const config = {
 
         indexName: "texastsarulebook",
       },
-      announcementBar: {
-        id: "important_information",
-        content:
-          "VEX Robotics information has been updated. UTE event information is under review and updates will be shared soon.",
-        backgroundColor: "#3c4ead",
-        textColor: "#fff",
-        isCloseable: false,
-      },
     }),
 };
 

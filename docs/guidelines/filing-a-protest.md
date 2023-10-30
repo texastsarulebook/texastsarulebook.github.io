@@ -6,12 +6,6 @@ Follow the procedure below that applies to your scenario for filing a protest.
 
 Advisors will complete a Google Form with their protest. The Protest Chair will review the protest and make their decision.
 
-:::tip Download Grievance Form
-
-[Download Grievance Form](/assets/rules-interpretation-panel-grievance.pdf)
-
-:::
-
 ## National Qualifying Protest Process
 
 In the event that something occurs during a National Qualifying Event and a protest needs to be filed here is the procedure:

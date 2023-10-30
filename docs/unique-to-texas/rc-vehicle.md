@@ -4,7 +4,11 @@ sidebar_position: 3
 
 # RC Vehicle
 
-Competitors will build their own Electric RC car either from their own design or from a kit. No store bought, already assembled RC cars will be permitted. The course will be a road race. The purpose of the RC race is to showcase the learning activities of students building radio-controlled cars and the components that make up this type of transportation system. All RC Vehicles must be electric/battery powered.
+Competitors will build their own Electric RC car either from their own design or from a kit.
+No store bought, already assembled RC cars will be permitted. The course will be a road
+race. The purpose of the RC race is to showcase the learning activities of students building
+radio-controlled cars and the components that make up this type of transportation system.
+All RC Vehicles must be electric/battery powered.
 
 import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 
@@ -34,18 +38,21 @@ The team type classification for this event is **Team**.
 ## Specifications
 
 - Scale: 1/10 or smaller
-- Length: 15” (381 mm) max
-- Width: 12” (204.8 mm) max measured from outside of tire to outside of tire
-- Wheelbase: 10” (254 mm) max
-- Weight: 5.0 lbs (2.27 kg) max
+- Length: 435 mm
+- Width: 210 mm
+- Height: 132 mm
+- Construction Type: Assembly Kit
 - Drivetrain: 2WD or 4WD allowed
 - Motor: Brushed 540 max
 - Radio: 2.4GHz, 2 channel
-- Batteries: 7.4v 1800mAh 6-C Ni-MH max
+- Batteries: 7.4v 2000mAh 6-C lipo max
 
 ## Documentation
 
-- Student will provide an Engineering Portfolio that will be submitted in a three brad folder (no binders allowed). Place the State Contest sticker received at registration on the outside of the folder at the top right corner of the front cover. The Engineering Portfolio must include:
+Student will provide an Engineering Portfolio that will be submitted in a three brad folder
+(no binders allowed). Place the State Contest sticker received at registration on the
+outside of the folder at the top right corner of the front cover. The Engineering Portfolio
+must include:
 - Cover page with Student ID#, Category #, and Category Name.
 - Table of Contents
 - Signed Liability Release Forms
@@ -61,7 +68,7 @@ The team type classification for this event is **Team**.
 - 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio. Awarded 1st through number of valid entries.
 - 50% Race Results: Points will be awarded based upon race times.
 
-Each racer will be awarded 1<sup>st</sup> through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1<sup>st</sup> Place, the second lowest combined score wins 2<sup>nd</sup> Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.
+Each racer will be awarded 1st through the number of valid entries for appearance, engineering portfolio and race results. The lowest combined score wins 1st  Place, the second lowest combined score wins 2nd Place, and so on. In case of a tie, the car with the better appearance and engineering portfolio will place higher.
 
 import RequiredPersonalLiabilityForm from '/required-personal-liability-form.mdx'
 

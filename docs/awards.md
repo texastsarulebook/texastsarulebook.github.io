@@ -52,11 +52,9 @@ First, second and third place awards will be given in the following categories.
 
 #### High School
 
-1-5  
-6-10  
-11-30  
+1-30
 31-60  
-61-100  
+61-100 
 101 or more
 
 ### Top NQE Schools

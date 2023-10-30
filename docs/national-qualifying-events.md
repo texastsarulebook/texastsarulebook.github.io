@@ -56,14 +56,14 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | --------------------------------- | ---------- | ---------------- | -------------------- |
 | Biotechnology Design              | Team       | 3                | NA                   |
 | Computer-Aided Design Foundations | Individual | 3                | 2                    |
-| Career Prep                       | Individual | 3                | NA                   |
-| Challenging Technology Issues     | Team       | 3                | 1                    |
+| Career Prep                       | Individual | 3                | 1                    |
+| Challenging Technology Issues     | Team       | 3                | NA                   |
 | Chapter Team                      | Team       | 3                | 1                    |
 | Children's Stories                | Team       | 3                | NA                   |
 | Coding                            | Team       | 3                | 1                    |
 | Community Service Video           | Team       | 3                | 1                    |
 | Construction Challenge            | Team       | 3                | 1                    |
-| Cyber Security                    | Individual | 3                | 3                    |
+| Cyber Security                    | Individual | 3                | 1                    |
 | Data Science and Analytics        | Team       | 3                | NA                   |
 | Digital Photography               | Individual | 3                | NA                   |
 | Dragster                          | Individual | 6                | 2                    |
@@ -88,8 +88,8 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | Tech Bowl                         | Team       | 3                | 1                    |
 | Technical Design                  | Team       | 3                | 1                    |
 | Video Game Design                 | Team       | 3                | 1                    |
-| Vlogging                          | Team       | 3                | NA                   |
-| Website Design                    | Team       | 3                | 2                    |
+| Vlogging                          | Team       | 3                | 2                    |
+| Website Design                    | Team       | 3                | 1                    |
 
 ### High School NQE
 
@@ -114,8 +114,8 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | Essays on Technology                    | Individual | 2                | NA                   |
 | Extemporaneous Speech                   | Individual | 2                | NA                   |
 | Fashion Design & Technology             | Team       | 3                | NA                   |
-| Flight Endurance                        | Individual | 3                | 2                    |
-| Forensic Science                        | Team       | 6                | 1                    |
+| Flight Endurance                        | Individual | 6                | 2                    |
+| Forensic Science                        | Team       | 3                | 1                    |
 | Future Technology & Engineering Teacher | Individual | 3                | 3                    |
 | Geospatial Technology                   | Team       | 3                | 1                    |
 | Manufacturing Prototype                 | Team       | 3                | 1                    |

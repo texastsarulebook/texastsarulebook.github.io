@@ -4,12 +4,7 @@ sidebar_position: 4
 
 # Drone Competition
 
-The current space program is requesting a Mars rover exploration mission for 2020. A new
-rover (payload) needs to be delivered on time and with the help of your Space Launch
-Vehicle (Drone). Who can deliver this rover the fastest? Your task is the following: Fly drone
-through the different space obstacles to deliver and release the rover (3D Printed Rover
-Provided) on the landing zone and then returning to the starting position in the fastest
-amount of time.
+Texas TSA Power and Electric has developed NEW smart electrical meters for the city! These smart meters can be read wirelessly by a drone and then transmitted back to headquarters to determine usage amounts. We need your drone teams to collect this data from across our city and transmit it back to Texas TSA Power and Electric’s headquarters as quickly as possible!
 
 import PersonalLiabilityStatement from '/personal-liability-statement.mdx'
 
@@ -26,27 +21,21 @@ The team type classification for this event is **Team**.
 
 :::
 
-The TSA Rover is printed at 13% infill (10%-15% infill) and no scaling needed. It weighs around 36 grams.
-
-:::note .STL File
-[Download TSA Rover .stl file](/assets/tsarover.stl)
-:::
-
 import RequiredPersonalLiabilityForm from '/required-personal-liability-form.mdx'
 
 <RequiredPersonalLiabilityForm />
 
 ## Rules
 
-- Each team will build their drone either from individual parts or a kit. Ready to fly drones purchased will not be accepted.
-- Teams must consist of a minimum of two (2) student members with a maximum of three student members.
-- Time begins when the drone leaves the starting position. Time ends after the pilot has successfully picked up the rover, maneuvered through the obstacles, released the rover, and returned to the same starting position.
-- The rover may not be modified in any way.
-- The rover must be picked up and released during flight.
-- One team member other than the pilot will be designated to enter the enclosure to return a downed drone to the take-off position. The judge will give permission when it is safe to enter the enclosure. The drone is not allowed to restart props until the team member is completely out of the closure and judge has given the all clear to resume.
+- Each team will build their drone either from individual parts or a kit. **Ready to fly drones purchased will not be accepted.**
+- Teams must consist of a minimum of two (2) student members with a maximum of three (3) student members.
+- Time begins when the drone leaves the starting position. Time ends after the pilot has successfully landed on each smart meter’s landing pad, navigated through each communication gate, and landing at the ending position.
+- Teams must maneuver their drone to a landing pad to collect smart meter data, then fly through a race gate to submit data back to headquarters. Each landing pad and race gate may only be used once to collect points. The order and path taken can be determined by each team.
+- One team member other than the pilot will be designated to enter the enclosure to return a downed drone to the take-off position. The judge will give permission when it is safe to enter the enclosure. The drone is not allowed to restart props until the team member is completely out of the closure and the judge has given the all clear to resume. The timer will continue to run during this time, the clock will not be stopped.
 - The judges may disqualify any team for any safety infraction.
 - All radios/controllers must be impounded, except when contestants are flying, until all flights are over. Failure to return your radio/controller to the impound area will mean disqualification from the contest.
 - Any team flying their drone outside of the drone enclosure will be immediately disqualified. This includes in any location inside or outside of the Fort Worth Convention Center during the dates of the Texas TSA State Competition.
+- Missed race gates or landing pads will result in a time penalty.
 
 ## Safety Requirements
 
@@ -66,21 +55,21 @@ import RequiredPersonalLiabilityForm from '/required-personal-liability-form.mdx
 
 ## Specifications
 
-- Dimensions: Maximum rotor size 5”
-- Unmanned aircraft must weigh less than 5 pounds, including payload, at takeoff
-- Battery power no greater than 6S, 1600mAh
+- Dimensions: Maximum rotor size 3.5” Drone MUST stay under: 12”L x 12” W x 6” H
+- Unmanned aircraft must weigh less than 250 grams, at takeoff, all-up weight
+- Battery power no greater than 2S batteries
 - Must not receive or use GPS
 - Must not have any object avoidance systems.
 - Must be a quad (4 rotor) drone
-- Drone must be controlled via handheld remote (no cell phones) and pilot may use FPV goggles but not required
+- Drone must be controlled via handheld remote (no cell phones) and pilot may use FPV goggles but not required.
 
 ## Documentation
 
-Student will provide an Engineering Portfolio that will be submitted in a three brad folder (no binders allowed). Place the State Contest sticker received at registration on the outside of the folder at the top right corner of the front cover. The Engineering Portfolio must include:
+Students will provide an Engineering Portfolio that will be submitted in a three brad folder (no binders allowed). Place the State Contest sticker received at registration on the outside of the folder at the top right corner of the front cover. The Engineering Portfolio must include:
 
 - Cover page with Student ID#, Category #, and Category Name.
 - Table of Contents
-- Signed Liability Release Forms
+-  Signed Liability Release Forms
 - Detailed list of all parts and components purchased. Also list any parts made using 3D printer, CNC machining and other equipment to make your own parts.
 - Part cutsheets that provide the manufacturer’s data about the specifications for each part or component not made by the student. Do not remove product stickers from parts. This helps the judges identify that the correct parts listed and cut sheets were used. Removing stickers could result in disqualification of the vehicle.
 - Student explanation of their build process
@@ -94,8 +83,13 @@ Student will provide an Engineering Portfolio that will be submitted in a three 
 - 25% Engineering Portfolio: Completeness and detail level of the Engineering Portfolio. Awarded 1st through number of valid entries.
 - 50% Race Results: Points will be awarded based upon flight times.
 
-Each team will be awarded 1<sup>st</sup> through the number of valid entries for appearance, engineering portfolio and flight results. The lowest combined score wins 1<sup>st</sup> Place, the second lowest combined score wins 2<sup>nd</sup> Place, and so on. In case of a tie, the vehicle with the better appearance and engineering portfolio will place higher.
+Each team will be awarded 1st through the number of valid entries for appearance, engineering portfolio and flight results. The lowest combined score wins 1st Place, the second lowest combined score wins 2nd Place, and so on. In case of a tie, the vehicle with the better appearance and engineering portfolio will place higher.
 
 ## Gate Information
 
-![UTE Drone Competition Gates](/img/ute-drone-competition-gates.jpg)
+![UTE Drone Competition Gates](/img/ute-drone-competition-gates.png)
+
+![UTE Drone Competition Race Gate and Landing Pad Dimensions](/img/ute-drone-competition-gate-and-pad-dimensions.png)
+
+- Race Gate Link: [https://newbeedrone.com/collections/racing-flying-accessories/products/balloon-gate](https://newbeedrone.com/collections/racing-flying-accessories/products/balloon-gate)
+- Landing Pad Link: [https://www.amazon.com/dp/B07N1CQJ33/](https://www.amazon.com/dp/B07N1CQJ33/)

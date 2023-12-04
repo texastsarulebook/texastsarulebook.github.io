@@ -50,12 +50,10 @@ Students will work to develop their leadership and 21st century skills in the pr
   c. At the event meeting, the event coordinator explains any further filming restrictions on the specific property.
   d. Failure to follow these instructions will result in disqualification.
 2. All entries become the property of TSA and will not be returned after judging.
-3. Teams are restricted to filming with a cell phone only, no
-video cameras.
+3. Teams are restricted to filming with a cell phone only, no video cameras.
 4. Teams must edit their projects on a nonlinear editing system or their cell phone. Teams are responsible for providing their own editing equipment.
 5. All video/camera footage must be the original work of the team and must have been completed during the event timeline.
-6. Where applicable, all ideas, test images and sound from other sources must be cited. Copyrighted materials may **not** be used. **Note**: Failure to follow this procedure
-results in disqualification.
+6. Where applicable, all ideas, test images and sound from other sources must be cited. Copyrighted materials may **not** be used. **Note**: Failure to follow this procedure results in disqualification.
 
 **B. On-site Submission Information:**
 
@@ -71,6 +69,10 @@ results in disqualification.
 3. If the entry contains images of people, proof of consent must be provided for each person in the video.
 4. Minors require parental consent. Use the Photo/Film/Video Consent and Release form (see Forms Appendix) for any individuals included in the video footage.
 5. Texas TSA will NOT provide wireless Internet.
+
+![Social Media Marketing Template](/img/social-media-marketing-template.jpg)
+
+[Direct Link](/img/social-media-marketing-template.jpg)
 
 ## Evaluation
 

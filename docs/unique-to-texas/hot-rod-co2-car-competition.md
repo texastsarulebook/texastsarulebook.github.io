@@ -19,7 +19,7 @@ The team type classification for this event is **Individual**.
 
 :::info Upcoming Themes
 
-2024: Formula 1 Race Car – realistic model with exposed wheels/tires, cowl induction, front spoiler and rear spoiler, and a roll cage over the driver compartment.  
+2024: Formula 1 Race Car – realistic model with exposed wheels/tires, cowl induction, front spoiler and rear spoiler, and a roll cage over the driver compartment. **For this year only, the engine can be either front or rear mounted based on the era of car design.**
 2025: NHRA Funny Car – must include an engine, seat, exhaust, removeable body shroud, and roll cage over the driver seat.  
 2026: Pro Stock Pickup - must include an engine, seat, exhaust, removeable body shroud, and roll cage over the driver seat.  
 2027: Hot Rod/Classic Gasser must include an engine, seat, exhaust, removeable body shroud or hinged hood to expose the engine compartment, and roll cage.

@@ -19,7 +19,6 @@ The team type classification for this event is **Individual**.
 
 - Racer must be powered by one 8 gram CO<sub>2</sub> cart ridge.
 - Racer must fit onto a standard CO<sub>2</sub> track.
-- Weight: (not including CO2 cartridge) minimum 28 grams maximum 58 grams
 - If a car fails the initial weigh in, the race officials may provide student with an opportunity to bring the racer up or down to weight limits.
 - Any racer deemed unsafe by judges will not be raced.
 - All parts must be made of either wood or plastic. Glass and/or metal parts will be deemed unsafe. Exceptions: axles may be metal, plastic or wood.
@@ -28,14 +27,6 @@ The team type classification for this event is **Individual**.
 
 ## Specifications
 
-- Racer must be powered by one 8 gram CO<sub>2</sub> cartridge.
-- Racer must fit onto a standard CO<sub>2</sub> track.
-- Weight: (not including CO2 cartridge) minimum 28 grams maximum 58 grams
-- If a car fails the initial weigh in, the race officials may provide student with an opportunity to bring the racer up or down to weight limits.
-- Any racer deemed unsafe by judges will not be raced.
-- All parts must be made of either wood or plastic. Glass and/or metal parts will be deemed unsafe. Exceptions: axles may be metal, plastic or wood.
-- All decisions of weight, size limits, or safety are the responsibility of the judges. Judge's decisions are final.
-- In order to qualify for judging and placing, a car must remain in safe and operable condition after all racing and be capable of safely racing again.
 - minimum length - 7 inches
 - maximum height - 3.5 inches
 - minimum weight - 40 grams

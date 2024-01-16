@@ -137,8 +137,8 @@ Product photography, or e-commerce photography as it's sometimes known, is basic
 
 | Event                                                                             | Class. No. |
 | --------------------------------------------------------------------------------- | ---------- |
-| Black/White: One photograph of a single product to be used in sales & advertising | HP6424     |
-| Color: One photograph of a single product to be used in sales & advertising       | HP6425     |
+| Black/White: One photograph of a single product to be used in sales & advertising | HP6224     |
+| Color: One photograph of a single product to be used in sales & advertising       | HP6225     |
 
 ## Still Life Photography
 
@@ -146,15 +146,15 @@ Still life photography encompasses everything that is an inanimate subject in fr
 
 | Event                                  | Class. No. |
 | -------------------------------------- | ---------- |
-| Black/White Still Life: One photograph | HP6426     |
-| Color Still Life: One photograph       | HP6427     |
+| Black/White Still Life: One photograph | HP6226     |
+| Color Still Life: One photograph       | HP6227     |
 
 ## Other
 
 | Event                                                          | Class. No. |
 | -------------------------------------------------------------- | ---------- |
-| Black/White Other Photo not listed above (Not special effects) | HP6428     |
-| Color Other Photo (Not special effects)                        | HP6429     |
+| Black/White Other Photo not listed above (Not special effects) | HP6228     |
+| Color Other Photo (Not special effects)                        | HP6229     |
 
 ## Special Effects Photo Entries
 

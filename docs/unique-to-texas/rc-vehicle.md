@@ -40,7 +40,6 @@ The team type classification for this event is **Team**.
 - Scale: 1/10 or smaller
 - Length: 435 mm
 - Width: 210 mm
-- Height: 132 mm
 - Construction Type: Assembly Kit
 - Drivetrain: 2WD or 4WD allowed
 - Motor: Brushed 540 max

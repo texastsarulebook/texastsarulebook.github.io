@@ -56,7 +56,7 @@ Projects in this category are entirely made of one material other than wood or m
 | Casting - All Sizes                      | HP5663     |
 | Reinforced Resins - All Sizes            | HP5664     |
 | Non-Acrylic - All Sizes                  | HP5665     |
-| Compostive - All Sizes                   | HP5666     |
+| Composite - All Sizes                   | HP5666     |
 | Acrylics - All Sizes                     | HP5667     |
 | Combination of any materials - All Sizes | HP5668     |
 | Fabric - All Sizes                       | HP5669     |

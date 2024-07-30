@@ -64,6 +64,14 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      announcementBar: {
+        id: "announcement",
+        content:
+          "The new rulebook for the 2024-2025 school year will be available September 1st. Please check back then.",
+        backgroundColor: "var(--ifm-color-warning-contrast-background)",
+        textColor: "var(--ifm-alert-foreground-color)",
+        isCloseable: false,
+      },
       navbar: {
         title: "Texas TSA Rulebook",
         logo: {
@@ -77,7 +85,6 @@ const config = {
             position: "left",
             label: "Rulebook",
           },
-          { to: "/search?q=", label: "Search", position: "left" },
           {
             href: "https://docs.google.com/document/d/1TXw9IUOEnjb6GJHtxWeLVdZaycylXNx2VqtWmb8cKLI/edit?usp=sharing",
             label: "FAQ",
@@ -86,11 +93,6 @@ const config = {
           {
             href: "https://texastsa.org",
             label: "Main Website",
-            position: "right",
-          },
-          {
-            href: "https://github.com/texastsarulebook/texastsarulebook.github.io",
-            label: "GitHub",
             position: "right",
           },
         ],

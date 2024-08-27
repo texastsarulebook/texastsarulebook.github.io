@@ -78,32 +78,45 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 
 ## High School Events
 
-| Events                                     | # Entries/Region |
-| ------------------------------------------ | ---------------- |
-| HS Animatronics                            | 3                |
-| HS Architectural Design                    | 3                |
-| HS Biotechnology Design                    | 3                |
-| HS Board Game Design                       | 3                |
-| HS Chapter Team                            | 3                |
-| HS Children's Stories                      | 3                |
-| HS Coding                                  | 3                |
-| HS CAD - Architecture                      | 3                |
-| HS CAD - Engineering                       | 3                |
-| HS Manufacturing Prototype                 | 3                |
-| HS Debating Technological Issues           | 2                |
-| HS Digital Video Production                | 3                |
-| HS Dragster Design                         | 6                |
-| HS Engineering Design                      | 3                |
-| HS Extemporaneous Speech                   | 2                |
-| HS Fashion Design & Technology             | 3                |
-| HS Flight Endurance                        | 6                |
-| HS Forensic Science                        | 3                |
-| HS Future Technology & Engineering Teacher | 3                |
-| HS Music Production                        | 3                |
-| HS On Demand Video                         | 3                |
-| HS Photographic Technology                 | 3                |
-| HS Prepared Presentation                   | 2                |
-| HS Promotional Design                      | 3                |
-| HS Software Development                    | 3                |
-| HS Structural Design & Engineering         | 3                |
-| HS System Control Technology               | 3                |
+| Events                                                          | # Entries/Region |
+| --------------------------------------------------------------- | ---------------- |
+| HS Animatronics                                                 | 3                |
+| HS Architectural Design                                         | 3                |
+| HS Biotechnology Design                                         | 3                |
+| HS Board Game Design                                            | 3                |
+| HS Chapter Team                                                 | 3                |
+| HS Children's Stories                                           | 3                |
+| HS Coding                                                       | 3                |
+| HS CAD - Architecture                                           | 3                |
+| HS CAD - Engineering                                            | 3                |
+| HS Manufacturing Prototype                                      | 3                |
+| HS Debating Technological Issues                                | 2                |
+| HS Digital Video Production                                     | 3                |
+| HS Dragster Design                                              | 6                |
+| HS Engineering Design                                           | 3                |
+| HS Extemporaneous Speech                                        | 2                |
+| HS Fashion Design & Technology                                  | 3                |
+| HS Flight Endurance                                             | 6                |
+| HS Forensic Science                                             | 3                |
+| HS Future Technology & Engineering Teacher                      | 3                |
+| HS Music Production                                             | 3                |
+| HS On Demand Video                                              | 3                |
+| HS Photographic Technology                                      | 3                |
+| HS Prepared Presentation                                        | 2                |
+| HS Promotional Design                                           | 3                |
+| **[HS Robotics Texas Modifications CLICK HERE](/vex-robotics)** | NA               |
+| HS Software Development                                         | 3                |
+| HS Structural Design & Engineering                              | 3                |
+| HS System Control Technology                                    | 3                |
+| HS Technology Bowl                                              | 3                |
+| HS Technology Problem Solving                                   | 3                |
+| HS Transportation Modeling                                      | 3                |
+| HS Video Game Design                                            | 3                |
+| HS Webmaster                                                    | 3                |
+| HS Data Science & Analytics                                     | 3                |
+| HS Geospatial Technology                                        | 3                |
+| HS Audio Podcasting                                             | 3                |
+| HS Drone Challenge (UAV)                                        | 3                |
+| HS Senior Solar Sprint                                          | 3                |
+| HS Virtual Reality (VR)                                         | 3                |
+| HS STEM Mass Media                                              | 3                |

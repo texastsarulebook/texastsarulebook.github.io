@@ -68,8 +68,8 @@ const config = {
         id: "announcement",
         content:
           "The new rulebook for the 2024-2025 school year will be available September 1st. Please check back then.",
-        backgroundColor: "var(--ifm-color-warning-contrast-background)",
-        textColor: "var(--ifm-alert-foreground-color)",
+        backgroundColor: "var(--ifm-color-info-contrast-background)",
+        textColor: "var(--ifm-color-info-contrast-foreground)",
         isCloseable: false,
       },
       navbar: {

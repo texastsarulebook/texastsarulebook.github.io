@@ -4,8 +4,7 @@ sidebar_position: 5
 
 # Section 4 - Applied Technical Science
 
-These events are designed for students learning about the practical application of science and technology.
-All projects must include the required documentation and the project must be physically present at the
+These events are designed for students learning about the practical application of science and technology. All projects must include the required documentation and the project must be physically present at the conference to be judged.
 
 import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
@@ -46,16 +45,16 @@ import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
 ### Energy and Power
 
-| Event                                                                       | Details                                   | Event # |
-| --------------------------------------------------------------------------- | ----------------------------------------- | ------- |
-| Portfolio of a Comparison Study of Power Efficiency                         | Based on Test Results of Electrical Usage | HP40400 |
-| Display of Solar Energy                                                     |                                           | HP40401 |
-| Display of Electrical Energy and/or Power Generation                        |                                           | HP40402 |
-| Display of Hydraulics or Pneumatics                                         |                                           | HP40403 |
-| Display of Fuel Resource, Exploration, Extraction, Processing & Utilization |                                           | HP40404 |
-| Display of the Generation of Electrical Energy from an Energy Source        | Fossil, Nuclear, etc.                     | HP40405 |
-| Display of a Power Grid                                                     | Conversion and Transmission of Energy     | HP40406 |
-| Display of External/Internal Combustion Engines Operation and Utilization   |                                           | HP40407 |
+| Event                                                                       | Details                                                                 | Event # |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------- |
+| Portfolio of a Comparison Study of Power Efficiency                         | Based on Test Results of Electrical Usage of at Least 5 Different Items | HP40400 |
+| Display of Solar Energy                                                     |                                                                         | HP40401 |
+| Display of Electrical Energy and/or Power Generation                        |                                                                         | HP40402 |
+| Display of Hydraulics or Pneumatics                                         |                                                                         | HP40403 |
+| Display of Fuel Resource, Exploration, Extraction, Processing & Utilization |                                                                         | HP40404 |
+| Display of the Generation of Electrical Energy from an Energy Source        | Fossil, Nuclear, etc.                                                   | HP40405 |
+| Display of a Power Grid                                                     | Conversion and Transmission of Energy Sources to Electrical Power       | HP40406 |
+| Display of External/Internal Combustion Engines Operation and Utilization   |                                                                         | HP40407 |
 
 ### Manufacturing
 
@@ -99,12 +98,12 @@ import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
 ### Robotics
 
-| Event                                                           | Details                           | Event # |
-| --------------------------------------------------------------- | --------------------------------- | ------- |
-| Robotic Programming any Computer Based Program                  | C++, Java, etc.                   | HP41200 |
-| Robot Using 2 Sensors & Only 1 Controlling Unit                 |                                   | HP41201 |
-| Robot Using 3 or More Sensors & Only 1 Controlling Unit HP41202 |
-| B.E.S.T. Robot Display                                          |                                   | HP41203 |
-| F.I.R.S.T. Robot Display                                        |                                   | HP41204 |
-| F.T.C. Robot Display                                            |                                   | HP41205 |
-| VEX Robot Display                                               | This is not the TSA NQE VEX Event | HP41206 |
+| Event                                                   | Details                           | Event # |
+| ------------------------------------------------------- | --------------------------------- | ------- |
+| Robotic Programming any Computer Based Program          | C++, Java, etc.                   | HP41200 |
+| Robot Using 2 Sensors & Only 1 Controlling Unit         |                                   | HP41201 |
+| Robot Using 3 or More Sensors & Only 1 Controlling Unit |                                   | HP41202 |
+| B.E.S.T. Robot Display                                  |                                   | HP41203 |
+| F.I.R.S.T. Robot Display                                |                                   | HP41204 |
+| F.T.C. Robot Display                                    |                                   | HP41205 |
+| VEX Robot Display                                       | This is not the TSA NQE VEX Event | HP41206 |

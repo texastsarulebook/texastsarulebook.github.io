@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Section 1 - Manufacturing
 
-These events are designed for students manufacturing unique work using a varity of modern techniques. All projects must include the required documentation and they must physically be present at the conference to
+These events are designed for students manufacturing unique work using a varity of modern techniques. All projects must include the required documentation and they must physically be present at the conference to be judged.
 
 import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
@@ -12,7 +12,7 @@ import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
 ## Section 1.0 - CNC/CAM and 3D Printing
 
-Computer Numerical Control (CNC) or Computer Aided Manufacturing (CAM) devices are used by students to create project entries in this section. Any projects in which CNC mills, lathes, routers, laser engravers, or similar devices were not used to produce all major components should not be entered in this category. Students are responsible for the design, material selection, and any assembly necessary to complete the
+Computer Numerical Control (CNC) or Computer Aided Manufacturing (CAM) devices are used by students to create project entries in this section. Any projects in which CNC mills, lathes, routers, laser engravers, or similar devices were not used to produce all major components should not be entered in this category. Students are responsible for the design, material selection, and any assembly necessary to complete the project. Components such as hardware can be purchased but must be included in the documentation form.
 
 ### Mill/Router/Lathe
 
@@ -62,11 +62,11 @@ Computer Numerical Control (CNC) or Computer Aided Manufacturing (CAM) devices a
 
 ## Section 1.1 - Wood
 
-Items in this section involve student created projects in which students used traditional and modern woodworking tools, methods, and techniques to create projects. Projects may contain minimal use of CNC mills, lathes, computer-controlled lasers, etc. Projects that used CNC mills, lathes, computer-controlled lasers, etc. for more than 80% of fabrication of the total project should not be entered in this category. Purchased materials such as glass, mirrors, and hardware must be listed in documentation and do not count as an additional construction material. Students are responsible for the design, material selection, and any
+Items in this section involve student created projects in which students used traditional and modern woodworking tools, methods, and techniques to create projects. Projects may contain minimal use of CNC mills, lathes, computer-controlled lasers, etc. Projects that used CNC mills, lathes, computer-controlled lasers, etc. for more than 80% of fabrication of the total project should not be entered in this category. Purchased materials such as glass, mirrors, and hardware must be listed in documentation and do not count as an additional construction material. Students are responsible for the design, material selection, and any assembly necessary to complete the project.
 
 ### Manual Turning
 
-Projects in this category are crafted using traditional lathe and turning tools. Example projects include but
+Projects in this category are crafted using traditional lathe and turning tools. Example projects include but not limited to lamps, candlesticks, walking canes, and bowls.
 
 | Event                                                         | Event # |
 | ------------------------------------------------------------- | ------- |
@@ -75,7 +75,7 @@ Projects in this category are crafted using traditional lathe and turning tools.
 
 ### Indoor
 
-Projects in this category are entirely made of wood for the primary use to be indoors. Example projects
+Projects in this category are entirely made of wood for the primary use to be indoors. Example projects include but not limited to bookshelves, tables, dressers, display cabinets, and bed headboards.
 
 | Event                                                                     | Event # |
 | ------------------------------------------------------------------------- | ------- |
@@ -87,9 +87,7 @@ Projects in this category are entirely made of wood for the primary use to be in
 
 ### Outdoor
 
-Projects in this category are entirely made of wood for the primary use to be outdoors. Example projects
-include but not limited to Projects in this category are entirely made of wood for the primary use to be
-outdoors. Example projects include but not limited to picnic tables, outdoor furniture, tiki stands, and
+Projects in this category are entirely made of wood for the primary use to be outdoors. Example projects include but not limited to Projects in this category are entirely made of wood for the primary use to be outdoors. Example projects include but not limited to picnic tables, outdoor furniture, tiki stands, and swings.
 
 | Event                                                                      | Event # |
 | -------------------------------------------------------------------------- | ------- |
@@ -101,11 +99,11 @@ outdoors. Example projects include but not limited to picnic tables, outdoor fur
 
 ## Section 1.2 - Metal
 
-Items in this section involve student created projects in which students used traditional and modern metal trade tools, methods, and techniques to create projects. Projects may contain minimal use of CNC mills, lathes, computer-controlled lasers, plasma cutters, etc. Projects that used CNC mills, lathes, computer-controlled lasers, plasma cutters, etc. for more than 80% of fabrication of the total project should not be entered in this category. Purchased materials such as glass, mirrors, and hardware must be listed in documentation and do not count as an additional construction material. Students are responsible for the
+Items in this section involve student created projects in which students used traditional and modern metal trade tools, methods, and techniques to create projects. Projects may contain minimal use of CNC mills, lathes, computer-controlled lasers, plasma cutters, etc. Projects that used CNC mills, lathes, computer-controlled lasers, plasma cutters, etc. for more than 80% of fabrication of the total project should not be entered in this category. Purchased materials such as glass, mirrors, and hardware must be listed in documentation and do not count as an additional construction material. Students are responsible for the design, material selection, and any assembly necessary to complete the project.
 
 ### Decorative
 
-Projects in this category are entirely made of metal for the primary use to be for decoration. Example
+Projects in this category are entirely made of metal for the primary use to be for decoration. Example projects include but not limited to signs, yard art, table inlays, and name plates.
 
 | Event                                                              | Event # |
 | ------------------------------------------------------------------ | ------- |
@@ -118,7 +116,7 @@ Projects in this category are entirely made of metal for the primary use to be f
 
 ### Functional
 
-Projects in this category are entirely made of metal for the primary use to perform a function. Example
+Projects in this category are entirely made of metal for the primary use to perform a function. Example projects include but not limited to bumpers, fire pits, grills/smokers, and farm equipment.
 
 | Event                                                                | Event # |
 | -------------------------------------------------------------------- | ------- |
@@ -132,7 +130,7 @@ Projects in this category are entirely made of metal for the primary use to perf
 
 ### Trailer
 
-Projects in this category mostly made of metal for the primary use as a trailer. Other materials are permitted
+Projects in this category mostly made of metal for the primary use as a trailer. Other materials are permitted to be used. Trailer must have a tongue and at least one axle.
 
 | Event    | Details                                                            | Event # |
 | -------- | ------------------------------------------------------------------ | ------- |
@@ -140,7 +138,7 @@ Projects in this category mostly made of metal for the primary use as a trailer.
 
 ## Section 1.3 - Other Materials
 
-Projects in this section are entirely made of one material other than wood or metal. Example projects
+Projects in this section are entirely made of one material other than wood or metal. Example projects include but not limited to RC car body, walking cane, artistic statue, PVC catapult, and drinking glass.
 
 ### PVC
 
@@ -176,19 +174,19 @@ Projects in this section are entirely made of one material other than wood or me
 
 ### Wood/Metal Mixed Materials
 
-Combination Material projects in this section are made of 2 or more materials including wood and metal. Example projects include but not limited to wood and resin table tops, wood and metal furniture, and
+Combination Material projects in this section are made of 2 or more materials including wood and metal. Example projects include but not limited to wood and resin table tops, wood and metal furniture, and stained glass and metal yard art.
 
-| Event                                                          | Details                                                                                                                        | Event # |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| Wood/Metal Mixed Material Not to Exceed 6 x 36 x 36 inches     | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as | HP13300 |
-| Wood/Metal Mixed Materials Not to Exceed 24 x 24 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as | HP13301 |
-| Wood/Metal Mixed Materials Not to Exceed 36 x 36 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as | HP13302 |
-| Wood/Metal Mixed Materials Not to Exceed 48 x 48 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as | HP13303 |
-| Wood/Metal Mixed Materials Size Exceeds 48+ x 48+ x 96+ inches | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as | HP13304 |
+| Event                                                          | Details                                                                                                                                | Event # |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Wood/Metal Mixed Material Not to Exceed 6 x 36 x 36 inches     | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as listed. | HP13300 |
+| Wood/Metal Mixed Materials Not to Exceed 24 x 24 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as listed. | HP13301 |
+| Wood/Metal Mixed Materials Not to Exceed 36 x 36 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as listed. | HP13302 |
+| Wood/Metal Mixed Materials Not to Exceed 48 x 48 x 96 inches   | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as listed. | HP13303 |
+| Wood/Metal Mixed Materials Size Exceeds 48+ x 48+ x 96+ inches | Must combine at least 2 different materials with one being either wood or metal. The other material can be wood/metal/other as listed. | HP13304 |
 
 ### Restoration
 
-Restoration items that were originally commercially manufactured and have been restored to their original state. A work history must accompany the entry showing the condition of the item before the restoration. All parts not reconditioned by the student must be identified. Photos documenting the restoration process
+Restoration items that were originally commercially manufactured and have been restored to their original state. A work history must accompany the entry showing the condition of the item before the restoration. All parts not reconditioned by the student must be identified. Photos documenting the restoration process must be included in the required documentation for projects in these categories.
 
 | Event                                  | Event # |
 | -------------------------------------- | ------- |
@@ -199,7 +197,7 @@ Restoration items that were originally commercially manufactured and have been r
 
 ### Recycled
 
-Recycled projects must be made out of a minimum of 50% recycled materials. A recycled material is defined by using a component or material in a way that it was not originally designed for. An example would be using bathroom tissue rolls to create the inner structure of a foot stool, using license plates to create the outline of Texas, or using painted plastic spoons to create a decorative mirror. A work history must accompany the entry showing the recycled item before construction. Photos documenting the construction
+Recycled projects must be made out of a minimum of 50% recycled materials. A recycled material is defined by using a component or material in a way that it was not originally designed for. An example would be using bathroom tissue rolls to create the inner structure of a foot stool, using license plates to create the outline of Texas, or using painted plastic spoons to create a decorative mirror. A work history must accompany the entry showing the recycled item before construction. Photos documenting the construction process must be included in the required documentation for projects in these categories.
 
 | Event                                                 | Event # |
 | ----------------------------------------------------- | ------- |

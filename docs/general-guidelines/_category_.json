@@ -1,7 +1,7 @@
 {
   "label": "General Guidelines",
-  "position": 7,
-  "collapsed": false,
+  "position": 6,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Section for general guidelines"

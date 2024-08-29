@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Section 0 - Exploratory
 
-These events are designed for high school students who are begineers to explore the different areas of the Unique to Texas Projects. While students who place in the top five in each event will earn awards, the points do not count.
+These events are designed for high school students who are beginners to explore the different areas of the UTE-Projects. While students who place in the top five in each event will earn awards, the point do not count towards school awards.
 
 import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 

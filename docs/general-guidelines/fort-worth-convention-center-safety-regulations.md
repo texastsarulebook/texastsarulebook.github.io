@@ -35,3 +35,7 @@ The safety of our members and our advisors is very important. The following safe
 27. No "camping out" in the hallways. Chapters and students may not block hallways or any access/aisle in any area. If waiting in an area, please stay within 5 feet of a wall provided it does not block any pathways.
 28. Please be advised that there is no guarantee of access to electricity or internet access within the Fort Worth Convention Center.
 29. Operating drones, RC cars or Trebuchets/Catapults in any area other than the designated competition area without permission from the event coordinators will result in disqualification.
+
+:::caution Important
+**Important:** Do not unplug anything that does not belong to you to gain access to an electrical outlet!
+:::

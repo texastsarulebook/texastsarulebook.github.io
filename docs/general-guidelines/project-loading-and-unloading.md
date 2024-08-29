@@ -14,3 +14,7 @@ sidebar_position: 7
 8. All projects must have a claim check/ticket before they can be removed. (Or a properly identified chapter instructor can have his/her projects released).
 9. Projects can be wrapped and/or prepared for shipment inside or outside of the Exhibit Hall, but not in the Loading Dock Area.
 10. Extremely large trailer projects will be stored or exhibited at the Bus Parking Area.
+
+:::caution Note
+The Texas TSA Board of Directors & Fort Worth Convention Center have established the policy to tow a vehicle.
+:::

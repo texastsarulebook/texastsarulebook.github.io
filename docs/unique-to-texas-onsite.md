@@ -11,13 +11,17 @@ These rules and requirements may be modified at the regional levels to accommoda
 
 **Attendance at the state conference is required of any students competing in this category.**
 
-**Important:** Ignorance of the rules and/or misunderstanding of the rules as run at the state conference is
+**Important:** Ignorance of the rules and/or misunderstanding of the rules as run at the state conference is not an excuse for a protest or additional consideration.
 
 :::
 
 ## Hot Rod CO2 Car Competition
 
 Hot Rod Competition (HRC) provides technology students with another opportunity to use their knowledge and skills in problem solving and the fun and excitement of racing competition. The goal of HRC is to encourage students to design and build realistic looking one-fourth mile hot rod car models. The project has been carefully planned to allow students to create realistic scale models of dragsters, funny cars, pro-stock cars and trucks and still have a chance to win races. The vehicle should be built of several parts or sub-assemblies rather than carved out or 3D printed as a single unit.
+
+:::caution Individual Event Notice
+This is an **individual** event, team entries are not allowed.
+:::
 
 [Hot Rod CO2 Car Competition Rules](https://example.com)
 
@@ -38,6 +42,10 @@ Hot Rod Competition (HRC) provides technology students with another opportunity 
 ## CO2 Research Racer
 
 The Research Racer Competition CO2 Cars are cars used as miniature racing cars which are propelled by a carbon dioxide cartridge, pierced to start the release of the gas, and which race on a typically 60 feet (18 metres) track. They are frequently used to demonstrate mechanical principles such as mass, force, acceleration, and aerodynamics. They are formed by shaping a single piece of wood or plastic into the body of the car.
+
+:::caution Individual Event Notice
+This is an **individual** event, team entries are not allowed.
+:::
 
 [CO2 Research Racer Rules](https://example.com)
 
@@ -60,9 +68,7 @@ The Research Racer Competition CO2 Cars are cars used as miniature racing cars w
 Competitors will build their own Electric RC car either from their own design or from a kit. No store bought, already assembled RC cars will be permitted. The course will be a road race. The purpose of the RC race is to showcase the learning activities of students building radio-controlled cars and the components that make up this type of transportation system. All RC Vehicles must be electric/battery powered.
 
 :::caution Team Event Notice
-
 This is a **team** event, individual entries are not allowed. Teams must consist of a minimum of two (2) students.
-
 :::
 
 [RC Vehicle Rules](https://example.com)
@@ -84,9 +90,7 @@ This is a **team** event, individual entries are not allowed. Teams must consist
 Texas TSA Power and Electric has developed NEW smart electrical meters for the city! These smart meters can be read wirelessly by a drone and then transmitted back to headquarters to determine usage amounts. We need your drone teams to collect this data from across our city and transmit it back to Texas TSA Power and Electric’s headquarters as quickly as possible!
 
 :::caution Team Event Notice
-
 This is a **team** event, individual entries are not allowed. Teams must consist of a minimum of two (2) students.
-
 :::
 
 [Drone Competition Rules](https://example.com)
@@ -108,9 +112,7 @@ This is a **team** event, individual entries are not allowed. Teams must consist
 A catapult is a mechanism used to forcefully propelling stones, spears, or other projectiles. It is mainly used as a military weapon since ancient times. Catapults were used by ancient Greeks, ancient Chinese and Romans so to be able to shoot arrows and darts as well as stones at enemy soldiers.
 
 :::caution Team Event Notice
-
 This is a **team** event, indivdual entries are not allowed. Teams must consist of a minimum of two (2) student members with a maximum of four (4) student members.
-
 :::
 
 [Catapult Rules](https://example.com)
@@ -129,14 +131,14 @@ This is a **team** event, indivdual entries are not allowed. Teams must consist 
 
 ## On-Site Computer Skills Contest
 
-Participating schools must supply all necessary software, hardware, paper, etc. All judging will be done on
-the contestants computer screen. Events such as animation’s and presentations will be demonstrated to a
-judge.
+Participating schools must supply all necessary software, hardware, paper, etc. All judging will be done on the contestants computer screen. Events such as animation’s and presentations will be demonstrated to a judge.
+
+:::caution Individual Event Notice
+This is an **individual** event, team entries are not allowed.
+:::
 
 :::info Please Note
-
 Please note these events will only be offered one time at state contest.
-
 :::
 
 [On-Site Computer Skills Contest Rules](https://example.com)
@@ -160,6 +162,10 @@ Please note these events will only be offered one time at state contest.
 ## Graphic Solutions
 
 This competition will test the student’s ability to solve a given problem with minimum supplies. The only items that may be taken into the contest area are: flat drawing surface, such as a clipboard, (maximum size of 12 x 16 inches), pencils and eraser. Drafting aids will not be allowed. Participants will be seated in regular folding chairs. Grid paper will be supplied.
+
+:::caution Individual Event Notice
+This is an **individual** event, team entries are not allowed.
+:::
 
 [Graphic Solutions Rules](https://example.com)
 
@@ -191,9 +197,7 @@ This competition will test the student’s ability to solve a given problem with
 Applying leadership and 21st century skills, participants showcase video skills, tools, and processes to communicate, inform, and promote a topic, idea, subject, or concept through a film produced on-site at the Texas TSA Conference. Required criteria, such as props and a line of dialogue, make the competition more challenging and will be revealed at the event orientation meeting.
 
 :::caution Team Event Notice
-
 This is a **team** event, individual entries are not allowed. Teams must consist of a minimum of two (2) students.
-
 :::
 
 [Promotional Video Rules](https://example.com)
@@ -215,9 +219,7 @@ This is a **team** event, individual entries are not allowed. Teams must consist
 Applying leadership and 21st century skills, participants showcase social media marketing skills, tools, and processes to communicate, inform, and promote an event on social media and produced on-site at the Texas TSA Conference. Required criteria, such as hashtags, content and a theme, make the competition more challenging and will be revealed at the event orientation meeting.
 
 :::caution Team Event Notice
-
 This is a **team** event, indivdual entries are not allowed. Teams must consist of a minimum of two (2) students.
-
 :::
 
 [Social Media Marketing Rules](https://example.com)

@@ -52,4 +52,4 @@ sidebar_position: 1
 2. Competition entries or presentations by participants must not include racial or ethnic slurs/symbols, reference to gang affiliation, or vulgar, violent, subversive, or sexually suggestive language or images.
 3. Entries or presentations may not promote products that students may not legally buy, such as tobacco, alcohol, or illegal drugs.
 4. Images, reproductions, or display of guns, knives, or other weapons are prohibited.
-5. Interpretation of the content of competition entries is at the discretion of the Contest Officials. Failure to
+5. Interpretation of the content of competition entries is at the discretion of the Contest Officials. Failure to follow any of the above procedures may result in disqualification.

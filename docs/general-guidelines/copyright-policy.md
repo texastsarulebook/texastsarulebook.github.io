@@ -15,3 +15,9 @@ The following are the policies related to Copyright:
 7. TSA logos - please follow the TSA Banding Guide when using the national logo.
 8. Failure to follow these procedures will automatically result in disqualification of the student(s) involved and all of their state entries.
 9. National Events will follow the penalty and disqualification rules as outlined the Competitive Events Guide General Rules.
+
+:::caution Note
+
+Failure to comply may potentially disqualify the entire chapter from the Texas TSA State Competition.
+
+:::

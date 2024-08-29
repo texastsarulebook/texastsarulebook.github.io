@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Vex Robotics
+# Rec Foundation Robotics
 
 Texas TSA State Conference will be hosting an INVITATIONAL TSA VEX Robotics Competition (TVRC) and TSA VEX IQ Challenge (TIQC) tournaments. The invitation is coming from state and to earn an invitation teams must:
 

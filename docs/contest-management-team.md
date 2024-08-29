@@ -47,5 +47,5 @@ Angela Mowery
 
 ## Officer Coordinator(s)
 
-Jennifer O’Brian, Rachelle Ferguson, Josh Simmons, and Cody Logsdon
+Jennifer O’Brian, Rachelle Ferguson, Josh Simmons, and Cody Logsdon  
 [officer.coordinator@texastsa.org](mailto:officer.coordinator@texastsa.org)

@@ -13,4 +13,4 @@ sidebar_position: 6
   Judges should read the introduction section for each category to determine the specific documentation
   requirements for the projects in that area.
 - High school advisors cannot be used to judge high school projects and the same will criteria will hold true for middle school advisors. Only with the permission of the Contest Director, will Event Coordinators be allowed to violate this rule.
-- The same entry cannot be used in multiple classifications. Further clarification will be provided under each
+- The same entry cannot be used in multiple classifications. Further clarification will be provided under each specific section.

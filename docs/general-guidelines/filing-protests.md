@@ -8,7 +8,7 @@ Follow the procedure below that applies to your scenario for filing a protest.
 
 ## Unique to Texas Onsite and Projects Protest Process
 
-Advisors will complete a Google Form with their protest. The Protest Chair will review the protest and make
+Advisors will complete a Google Form with their protest. The Protest Chair will review the protest and make their decision.
 
 ## National Qualifying Events Protest Process
 
@@ -24,4 +24,4 @@ procedure:
 
 Protest must be filed while the event is underway to ensure the best outcome.
 
-If the protest concerns a modification made with the official permission of the NQE Managers and impacted all
+If the protest concerns a modification made with the official permission of the NQE Managers and impacted all contestants equally then the protest will more than likely not result in any changes.

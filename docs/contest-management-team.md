@@ -33,7 +33,7 @@ Cody Logsdon and Kristin Rausch
 
 ## RECF (VEX Robotics) Event Managers
 
-Emily Gresham, Devon Murphy, & Thea Drake
+Emily Gresham, Devon Murphy, & Thea Drake  
 [vex@texastsa.org](mailto:vex@texastsa.org)
 
 ## Data Managers
@@ -42,7 +42,7 @@ Alex Garcia & Emily Gresham
 
 ## Judges Coordinator
 
-Angela Mowery
+Angela Mowery  
 [judges@texastsa.org](mailto:judges@texastsa.org)
 
 ## Officer Coordinator(s)

@@ -49,20 +49,16 @@ First, second and third place awards will be given in the following Divisions:
 
 #### High Point Chapter - Middle School​
 
-```
-Division I 1-10
-Division II 11-40
-Division III 41 or more
-```
+> Division I 1-10  
+> Division II 11-40  
+> Division III 41 or more
 
 #### High Point Chapter - High School
 
-```
-Division I 1-30
-Division II 31-60
-Division III 61-100
-Division IV 101 or more
-```
+> Division I 1-30  
+> Division II 31-60  
+> Division III 61-100  
+> Division IV 101 or more
 
 ### NQE Chapter Awards​
 
@@ -70,22 +66,22 @@ Additionally, the Top 3 Chapters that place based on only the Chapter's National
 
 #### Middle School​
 
-```
-1st Place
-2nd Place
-3rd Place
-```
+> 1st Place  
+> 2nd Place  
+> 3rd Place
 
 #### High School​
 
-```
-1st Place
-2nd Place
-3rd Place
-```
+> 1st Place  
+> 2nd Place  
+> 3rd Place
 
 :::caution Note
 
 Chapters must be present at the Awards Ceremony during the Third General Session in order to receive all Chapter Awards. Awards will not be mailed to Chapters that are not present for the Awards Ceremony.
 
 :::
+
+```
+
+```

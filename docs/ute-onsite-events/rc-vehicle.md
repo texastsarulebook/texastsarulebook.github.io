@@ -10,11 +10,7 @@ import UteOnsiteBanner from '/ute-onsite-banner.mdx'
 
 Competitors will build their own Electric RC car either from their own design or from a kit. No store bought, already assembled RC cars will be permitted. The course will be a road race. The purpose of the RC race is to showcase the learning activities of students building radio-controlled cars and the components that make up this type of transportation system. All RC Vehicles must be electric/battery powered.
 
-:::caution Team Event Notice
-This is a **team** event, individual entries are not allowed. Teams must consist of a minimum of two (2) students.
-:::
-
-[RC Vehicle Rules](https://example.com)
+[RC Vehicle Rules](https://drive.google.com/file/d/1KVNZUdf2SGwf9ZykjYdGITGXlnKEfCtJ/view?usp=sharing)
 
 ### Middle School
 

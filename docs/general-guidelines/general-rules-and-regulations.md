@@ -15,6 +15,12 @@ sidebar_position: 1
 1. Registrants must wear conference identification badges at all times. Identification must be in the form of the Conference Badge and Lanyard supplied by Texas TSA when chapters check in.
 2. Conference badge & lanyard must be worn around the neck in plain view at all times. There is a charge for replacement of lost/damaged/destroyed lanyards and/or Conference badge.
 
+:::info ID Replacement Cost
+
+The cost of a replacement ID is $5/badge.
+
+:::
+
 ## National Competitive Events
 
 1. The National Events Manager team works to ensure that National Events are run as closely as possible to the rules and regulations listed in the National Competitive Events Guide.

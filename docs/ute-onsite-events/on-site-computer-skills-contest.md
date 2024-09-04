@@ -8,17 +8,14 @@ import UteOnsiteBanner from '/ute-onsite-banner.mdx'
 
 <UteOnsiteBanner />
 
-Participating schools must supply all necessary software, hardware, paper, etc. All judging will be done on the contestants computer screen. Events such as animation’s and presentations will be demonstrated to a judge.
+Participating schools must supply all necessary software, hardware, paper, etc. All judging will be done on the contestant's computer screen. Events such as animationss and presentations will be demonstrated to a judge.
 
-:::caution Individual Event Notice
-This is an **individual** event, team entries are not allowed.
-:::
-
-:::info Please Note
-Please note these events will only be offered one time at state contest.
-:::
-
-[On-Site Computer Skills Contest Rules](https://example.com)
+- All computers must be laptops with a battery capable of lasting the entire testing time.
+- Students are allowed to bring a laptop and mouse. Additional monitors and keyboards are not allowed.
+- This event has a 1 hour time limit.
+- Hotspots are not provided or allowed.
+- Texas TSA does not provide Internet access for competitors.
+- Computer software should not be cloud or Internet based.
 
 ### Middle School
 

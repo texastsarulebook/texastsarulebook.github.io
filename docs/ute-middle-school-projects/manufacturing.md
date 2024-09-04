@@ -112,7 +112,7 @@ Projects in this category are entirely made of metal for the primary use to be f
 | Manufacturing Metals Decorative Not to Exceed 72 x 72 x 120 inches | MP12005 |
 | Manufacturing Metals Decorative Exceeds 72+ x 72+ x 120+ inches    | MP12006 |
 
-# Functional
+### Functional
 
 Projects in this category are entirely made of metal for the primary use to perform a function. Example projects include but not limited to bumpers, fire pits, grills/smokers, and farm equipment.
 

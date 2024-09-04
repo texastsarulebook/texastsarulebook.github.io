@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Section 2 - Graphic Arts & Computer Science
+# Section 2 - Graphic Arts, Multimedia, Computer Science and Photography
 
 These events are designed for students using technology to produce graphics, photos, and programs to be used in a variety of ways. All projects must include the required documentation. Be sure to pay attention to the section guidelines for submission instructions as some events are submitted
 

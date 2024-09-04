@@ -94,7 +94,9 @@ Construction Drawings - drawings that are used to provide the technical details 
 - Threading
 - Materials
 - Notes
-- Constructions Drawings are to include but not limited to:
+
+Constructions Drawings are to include but not limited to:
+
 - Cover Sheet
 - Site Plan
 - Existing Floor Plan (Remodel Only)

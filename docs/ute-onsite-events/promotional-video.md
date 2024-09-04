@@ -8,13 +8,7 @@ import UteOnsiteBanner from '/ute-onsite-banner.mdx'
 
 <UteOnsiteBanner />
 
-Applying leadership and 21st century skills, participants showcase video skills, tools, and processes to communicate, inform, and promote a topic, idea, subject, or concept through a film produced on-site at the Texas TSA Conference. Required criteria, such as props and a line of dialogue, make the competition more challenging and will be revealed at the event orientation meeting.
-
-:::caution Team Event Notice
-This is a **team** event, individual entries are not allowed. Teams must consist of a minimum of two (2) students.
-:::
-
-[Promotional Video Rules](https://example.com)
+Applying leadership and 21st century skills, participants showcase video skills, tools, and processes to communicate, inform, and promote a topic, idea, subject, or concept through a film produced on-site at the Texas TSA Conference. Required criteria, such as props and a line of dialogue, make the competition more challenging and will be revealed at the event orientation meeting. Teams will be given 24 hours to complete the solution to the challenge.
 
 ### Middle School
 

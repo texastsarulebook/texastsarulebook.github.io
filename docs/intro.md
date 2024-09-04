@@ -3,15 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Rulebook Intro
-
-:::info
-
-The rulebook for the 2024-2025 school year will be available September 1st. Please check back then.
-
-:::
-
-## Introduction
+# Texas TSA Rulebook Introduction
 
 The Texas Technology Student Association (TSA) State Competition is managed and conducted by the Texas TSA Board of Directors and Texas TSA State Contest Director, under the oversight of the Texas Education Agency (TEA) and its policies regarding CTSOs. The state competition includes: a business meeting, state officer elections, project competition and student competitive events.
 

@@ -4,32 +4,64 @@
  * work well for content-centric websites.
  */
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e3c85;
-  --ifm-color-primary-dark: #293678;
-  --ifm-color-primary-darker: #273371;
-  --ifm-color-primary-darkest: #202a5d;
-  --ifm-color-primary-light: #334292;
-  --ifm-color-primary-lighter: #354599;
-  --ifm-color-primary-lightest: #3c4ead;
+  --ifm-color-primary: #0c719d;
+  --ifm-color-primary-dark: #0b668d;
+  --ifm-color-primary-darker: #0a6085;
+  --ifm-color-primary-darkest: #084f6e;
+  --ifm-color-primary-light: #0d7cad;
+  --ifm-color-primary-lighter: #0e82b5;
+  --ifm-color-primary-lightest: #1093cc;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  font-family: "Roboto Serif", Arial, Helvetica, sans-serif;
-  --ifm-heading-font-family: "Roboto Serif", Arial, Helvetica, sans-serif;
-  --ifm-font-family-base: "Roboto Serif", Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  --ifm-heading-font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  --ifm-font-family-base: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #c3dcfe;
-  --ifm-color-primary-dark: #97c2fd;
-  --ifm-color-primary-darker: #81b5fd;
-  --ifm-color-primary-darkest: #3f8ffc;
-  --ifm-color-primary-light: #eff6ff;
-  --ifm-color-primary-lighter: #ffffff;
-  --ifm-color-primary-lightest: #ffffff;
+  --ifm-color-primary: #76a4d5;
+  --ifm-color-primary-dark: #5d93cd;
+  --ifm-color-primary-darker: #508bc9;
+  --ifm-color-primary-darkest: #3672b1;
+  --ifm-color-primary-light: #8fb5dd;
+  --ifm-color-primary-lighter: #9cbde1;
+  --ifm-color-primary-lightest: #c2d6ec;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.DocSearch-Container {
+  --docsearch-container-background: rgba(22, 12, 12, 0.8);
+}
+
+div[class^="announcementBar_"] {
+  --site-announcement-bar-stripe-color1: #dde7ff;
+  --site-announcement-bar-stripe-color2: #ffffff;
+  background: repeating-linear-gradient(
+    35deg,
+    var(--site-announcement-bar-stripe-color1),
+    var(--site-announcement-bar-stripe-color1) 20px,
+    var(--site-announcement-bar-stripe-color2) 10px,
+    var(--site-announcement-bar-stripe-color2) 40px
+  );
+  font-weight: bold;
+}
+
+.footer--dark {
+  background-color: #13536f;
+}
+
+[data-theme="dark"] .footer--dark {
+  background-color: #262626;
+}
+
+.DocSearch-Button {
+  border-radius: 5px !important;
+}
+
+.DocSearch-Button-Key {
+  height: 20px !important;
 }

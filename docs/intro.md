@@ -69,6 +69,18 @@ Angela Mowery
 Jennifer O’Brian, Rachelle Ferguson, Josh Simmons, and Cody Logsdon  
 [officer.coordinator@texastsa.org](mailto:officer.coordinator@texastsa.org)
 
+## Event Coordinators
+
+### Unique to Texas Events (Onsite, Projects, and V5RC & VIQRC Robotics)
+
+Each Event Coordinator, after consultation with the State Contest Director, is responsible for the operation of the area assigned and has complete control and authority concerning that event.
+
+Questions of eligibility are the responsibility of the State Advisor. Concerns/Protests regarding an event must be directed to the Event Coordinator at the time of the event using the Texas TSA Protest Form.
+
+### National Qualifing Events
+
+The Event Coordinator works under the guidance of the NQE Managers appointed by Texas TSA. If modifications are needed to the structure or rules of the event those have been approved by the NQE Managers. Protests must be made the time of the event using the National Qualifying Event Protest Form.
+
 ## Awards
 
 Texas TSA is honored to provide student members with awards at State Contest for distinguished work.

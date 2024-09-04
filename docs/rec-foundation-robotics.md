@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Rec Foundation Robotics
+# REC Foundation Robotics
 
 Instead of the TSA National robotics contest, Texas TSA State Conference will be hosting INVITATIONAL RECF(VEX) Robotics Competitions for V5RC and VIQRC robots. The top 3 HS teams will be given the option of advancing to compete in the national contest at the National Conference. The invitation will come from the Texas State Conference and to earn an invitation teams must:
 

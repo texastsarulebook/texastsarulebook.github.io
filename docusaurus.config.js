@@ -67,7 +67,7 @@ const config = {
       announcementBar: {
         id: "announcement",
         content:
-          "The new rulebook for the 2024-2025 school year will be available September 1st. Please check back then.",
+          "The new rulebook for the 2024-2025 school year is now available.",
         backgroundColor: "var(--ifm-color-info-contrast-background)",
         textColor: "var(--ifm-color-info-contrast-foreground)",
         isCloseable: false,

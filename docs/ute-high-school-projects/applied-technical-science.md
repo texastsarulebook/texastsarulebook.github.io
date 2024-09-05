@@ -98,12 +98,12 @@ import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
 ### Robotics
 
-| Event                                                   | Details                           | Event # |
-| ------------------------------------------------------- | --------------------------------- | ------- |
-| Robotic Programming any Computer Based Program          | C++, Java, etc.                   | HP41200 |
-| Robot Using 2 Sensors & Only 1 Controlling Unit         |                                   | HP41201 |
-| Robot Using 3 or More Sensors & Only 1 Controlling Unit |                                   | HP41202 |
-| B.E.S.T. Robot Display                                  |                                   | HP41203 |
-| F.I.R.S.T. Robot Display                                |                                   | HP41204 |
-| F.T.C. Robot Display                                    |                                   | HP41205 |
-| VEX Robot Display                                       | This is not the TSA NQE VEX Event | HP41206 |
+| Event                                                   | Details                                                 | Event # |
+| ------------------------------------------------------- | ------------------------------------------------------- | ------- |
+| Robotic Programming any Computer Based Program          | C++, Java, etc.                                         | HP41200 |
+| Robot Using 2 Sensors & Only 1 Controlling Unit         |                                                         | HP41201 |
+| Robot Using 3 or More Sensors & Only 1 Controlling Unit |                                                         | HP41202 |
+| B.E.S.T. Robot Display                                  |                                                         | HP41203 |
+| F.I.R.S.T. Robot Display                                |                                                         | HP41204 |
+| F.T.C. Robot Display                                    |                                                         | HP41205 |
+| VEX Robot Display                                       | This is not the Texas TSA REC Foundation Robotics Event | HP41206 |

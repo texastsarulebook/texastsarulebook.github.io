@@ -49,8 +49,8 @@ Working Drawings - drawings that are used to provide the technical details of a 
 
 | Event                                                                                                             | Details                                                                                                                                                                                                              | Event # |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Mechanical Engineering - Working Drawings of a Single or Multiple Parts. Pen or Pencil Only                       | Working Drawings to include Front, Top, and Right Side Views. Duplicate views can be omitted or a Section View can be used in its place. Single Sheet Only.                                                          | HP30100 |
-| Mechanical Engineering - Working Drawings of a Single or Multiple Parts with a Pictorial View. Pen or Pencil Only | Working Drawings to include Front, Top, Right Side and an Isometric View (No Shading Allowed). Duplicate views can be omitted or a Section View can be used in its place. Single Sheet Only.                         | HP30101 |
+| Mechanical Engineering - Working Drawings of a Single or Multiple Parts. Pen or Pencil Only                       | Working Drawings to include Front, Top, and Right Side Views. Duplicate views can be omitted or a Section View can be used in its place. Single sheet only.                                                          | HP30100 |
+| Mechanical Engineering - Working Drawings of a Single or Multiple Parts with a Pictorial View. Pen or Pencil Only | Working Drawings to include Front, Top, Right Side and an Isometric View (No Shading Allowed). Duplicate views can be omitted or a Section View can be used in its place. Single sheet only.                         | HP30101 |
 | Mechanical Engineering - Working Drawings of a Single Part. [CADD]                                                | Working Drawings to include Front, Top, and Right Side Views. Duplicate views can be omitted or a Section View can be used in its place. Single sheet only.                                                          | HP30102 |
 | Mechanical Engineering - Working Drawings of 2-5 Mechanical Parts. [CADD]                                         | Working Drawings to include Front, Top, and Right Side Views of each part. Duplicate views can be omitted or a Section View can be used in its place. Number of sheets as needed.                                    | HP30103 |
 | Mechanical Engineering - Working Drawings of 6-12 Mechanical Parts. [CADD]                                        | Working Drawings to include Front, Top, and Right Side Views of each part. Duplicate views can be omitted or a Section View can be used in its place. Number of sheets as needed.                                    | HP30104 |
@@ -67,7 +67,7 @@ Working Drawings - drawings that are used to provide the technical details of a 
 
 ### Pictorial View
 
-Pictorial Drawing - provides a 3D like image to help understand the shape of an object or to assist in interpreting a drawing. There are three types of pictorial drawings: isometric drawings, oblique drawings,
+Pictorial Drawing - provides a 3D like image to help understand the shape of an object or to assist in interpreting a drawing. There are three types of pictorial drawings: isometric drawings, oblique drawings, and perspective drawings.
 
 | Event                                                                                                       | Details                                  | Event # |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------- |
@@ -84,7 +84,7 @@ Pictorial Drawing - provides a 3D like image to help understand the shape of an 
 
 ### Presentation View
 
-Presentation Drawing - the production of a drawing for the purpose of gaining support, such as at a
+Presentation Drawing - the production of a drawing for the purpose of gaining support, such as at a presentation or to "sell" a product.
 
 | Event                                                                                                          | Details                              | Event # |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
@@ -101,6 +101,8 @@ Presentation Drawing - the production of a drawing for the purpose of gaining su
 
 ### Exploded Presentation View
 
+Exploded Presentation Drawing showing multiple parts in an isometric or 3D view that show how the parts would fit together to form one working device. This is tpyicially used in assembly instructions or as a means to order specific parts. A part list must be included on the sheet.
+
 | Event                                                                                           | Details                              | Event # |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
 | Mechanical Engineering - Exploded Presentation View Only of 2-5 Mechanical Parts. [CADD]        | Must Be Rendered. Single sheet only. | HP30400 |
@@ -111,6 +113,8 @@ Presentation Drawing - the production of a drawing for the purpose of gaining su
 
 ### Engineering Media
 
+Engineering media uses rendering methods to create a realistic view of a part or machine. Animations show how different parts come together in assembly to create one working device.
+
 | Event                                                                                                  | Details                                                                              | Event # |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------- |
 | Engineering Media - Original 3D Computer Image of a Mechanical Part or Parts                           |                                                                                      | HP30500 |
@@ -120,7 +124,7 @@ Presentation Drawing - the production of a drawing for the purpose of gaining su
 
 ## Section 3.1 - Architecture
 
-Items in this category involve student created architecture projects in which students created projects using
+Items in this category involve student created architecture projects in which students created projects using traditional drafting or modern computer aided design standards, practices, and methods.
 
 ### Free Hand Sketching
 
@@ -151,50 +155,54 @@ Constructions Drawings are to include but not limited to:
 - Elevations
 - Roof Plan
 
-| Event                                                                                             | Details                                                                                                          | Event # |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------- |
-| Construction Drawings of a Tiny Home on a Trailer. Pen or Pencil Only.                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31100 |
-| Construction Drawings of any Residential Structure. Pen or Pencil Only.                           | See required sheets for construction drawings at the beginning of this section.                                  | HP31101 |
-| Construction Drawings of any Commercial Structure. Pen or Pencil Only.                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31102 |
-| Construction Drawings of a Tiny Home on a Trailer. [2D & 3D CADD]                                 | See required sheets for construction drawings at the beginning of this section.                                  | HP31103 |
-| Construction Drawings of Residential Home under 2000 sq. ft HVAC [2D CADD]                        | See required sheets for construction drawings at the beginning of this section.                                  | HP31104 |
-| Construction Drawings of Residential Home under 2000 sq. ft HVAC [3D CADD]                        | See required sheets for construction drawings at the beginning of this section.                                  | HP31105 |
-| Construction Drawings of Residential Home over 2000 sq. ft HVAC [2D CADD]                         | See required sheets for construction drawings at the beginning of this section.                                  | HP31106 |
-| Construction Drawings of Residential Home over 2000 sq. ft HVAC [3D CADD]                         | See required sheets for construction drawings at the beginning of this section.                                  | HP31107 |
-| Construction Drawings of Residential Multistory Single Family Home under 2000 sq. ft [2D CADD]    | See required sheets for construction drawings at the beginning of this section.                                  | HP31108 |
-| Construction Drawings of Residential Multistory Single Family Home under 2000 sq. ft [3D CADD]    | See required sheets for construction drawings at the beginning of this section.                                  | HP31109 |
-| Construction Drawings of Residential Multistory Single Family Home over 2000 sq. ft [2D CADD]     | See required sheets for construction drawings at the beginning of this section.                                  | HP31110 |
-| Construction Drawings of Residential Multistory Single Family Home over 2000 sq. ft [3D CADD]     | See required sheets for construction drawings at the beginning of this section.                                  | HP31111 |
-| Construction Drawings of Apartment, Condo, Townhouse, Duplex [2D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31112 |
-| Construction Drawings of Apartment, Condo, Townhouse, Duplex [3D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31113 |
-| Construction Drawings of a Commercial Structure-Retail [2D CADD]                                  | See required sheets for construction drawings at the beginning of this section.                                  | HP31114 |
-| Construction Drawings of a Commercial Structure-Retail [3D CADD]                                  | See required sheets for construction drawings at the beginning of this section.                                  | HP31115 |
-| Construction Drawings of a Commercial Structure - Restaurant [2D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31116 |
-| Construction Drawings of a Commercial Structure - Restaurant [3D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                  | HP31117 |
-| Construction Drawings of a Commercial Structure-Other [2D CADD]                                   | See required sheets for construction drawings at the beginning of this section.                                  | HP31118 |
-| Construction Drawings of a Commercial Structure-Other [3D CADD]                                   | See required sheets for construction drawings at the beginning of this section.                                  | HP31119 |
-| Construction Drawings of a Commercial Structure - Mixed Use [2D CADD]                             | See required sheets for construction drawings at the beginning of this section.                                  | HP31120 |
-| Construction Drawings of a Commercial Structure - Mixed Use [3D CADD]                             | See required sheets for construction drawings at the beginning of this section.                                  | HP31121 |
-| Construction Drawings of a Recreational Facility/Public Structure [2D CADD]                       | See required sheets for construction drawings at the beginning of this section.                                  | HP31122 |
-| Construction Drawings of a Recreational Facility/Public Structure [3D CADD]                       | See required sheets for construction drawings at the beginning of this section.                                  | HP31123 |
-| Construction Drawings of a Residential Remodeling [2D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                  | HP31124 |
-| Construction Drawings of a Residential Remodeling [3D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                  | HP31125 |
-| Construction Drawings of Detailing of Architectural Elements [2D & 3D CADD]                       | Can Include but not limited to Walls, Windows, Doors, Stairs, Cabinetry, Foundations, and Full Building Sections | HP31126 |
-| Construction Drawings of Architectural Landscape/Irrigation Plan. Any Method Other Than Computer. | See required sheets for construction drawings at the beginning of this section.                                  | HP31127 |
-| Construction Drawings of Architectural Landscape/Irrigation Plan [2D & 3D CADD]                   | See required sheets for construction drawings at the beginning of this section.                                  | HP31128 |
+| Event                                                                                             | Details                                                                                                                                                                                                                                              | Event # |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Construction Drawings of a Tiny Home on a Trailer. Pen or Pencil Only.                            | Use traditional board drafting techniques to develop a set of construction drawings. See required sheets for construction drawings at the beginning of this section. See required sheets for construction drawings at the beginning of this section. | HP31100 |
+| Construction Drawings of any Residential Structure. Pen or Pencil Only.                           | Use traditional board drafting techniques to develop a set of construction drawings. See required sheets for construction drawings at the beginning of this section. See required sheets for construction drawings at the beginning of this section. | HP31101 |
+| Construction Drawings of any Commercial Structure. Pen or Pencil Only.                            | Use traditional board drafting techniques to develop a set of construction drawings. See required sheets for construction drawings at the beginning of this section. See required sheets for construction drawings at the beginning of this section. | HP31102 |
+| Construction Drawings of a Tiny Home on a Trailer. [2D & 3D CADD]                                 | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31103 |
+| Construction Drawings of Residential Home under 2000 sq. ft HVAC [2D CADD]                        | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31104 |
+| Construction Drawings of Residential Home under 2000 sq. ft HVAC [3D CADD]                        | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31105 |
+| Construction Drawings of Residential Home over 2000 sq. ft HVAC [2D CADD]                         | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31106 |
+| Construction Drawings of Residential Home over 2000 sq. ft HVAC [3D CADD]                         | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31107 |
+| Construction Drawings of Residential Multistory Single Family Home under 2000 sq. ft [2D CADD]    | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31108 |
+| Construction Drawings of Residential Multistory Single Family Home under 2000 sq. ft [3D CADD]    | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31109 |
+| Construction Drawings of Residential Multistory Single Family Home over 2000 sq. ft [2D CADD]     | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31110 |
+| Construction Drawings of Residential Multistory Single Family Home over 2000 sq. ft [3D CADD]     | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31111 |
+| Construction Drawings of Apartment, Condo, Townhouse, Duplex [2D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31112 |
+| Construction Drawings of Apartment, Condo, Townhouse, Duplex [3D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31113 |
+| Construction Drawings of a Commercial Structure-Retail [2D CADD]                                  | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31114 |
+| Construction Drawings of a Commercial Structure-Retail [3D CADD]                                  | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31115 |
+| Construction Drawings of a Commercial Structure - Restaurant [2D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31116 |
+| Construction Drawings of a Commercial Structure - Restaurant [3D CADD]                            | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31117 |
+| Construction Drawings of a Commercial Structure-Other [2D CADD]                                   | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31118 |
+| Construction Drawings of a Commercial Structure-Other [3D CADD]                                   | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31119 |
+| Construction Drawings of a Commercial Structure - Mixed Use [2D CADD]                             | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31120 |
+| Construction Drawings of a Commercial Structure - Mixed Use [3D CADD]                             | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31121 |
+| Construction Drawings of a Recreational Facility/Public Structure [2D CADD]                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31122 |
+| Construction Drawings of a Recreational Facility/Public Structure [3D CADD]                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31123 |
+| Construction Drawings of a Residential Remodeling [2D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31124 |
+| Construction Drawings of a Residential Remodeling [3D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31125 |
+| Construction Drawings of Detailing of Architectural Elements [2D & 3D CADD]                       | Can Include but not limited to Walls, Windows, Doors, Stairs, Cabinetry, Foundations, and Full Building Sections                                                                                                                                     | HP31126 |
+| Construction Drawings of Architectural Landscape/Irrigation Plan. Any Method Other Than Computer. | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31127 |
+| Construction Drawings of Architectural Landscape/Irrigation Plan [2D & 3D CADD]                   | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31128 |
 
 ### Presentation Drawings
 
-| Event                                                                                | Details                                                         | Event # |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------- |
-| Presentation Drawing - Any Method Other Than Computer.                               | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31200 |
-| Presentation Drawing [2D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31201 |
-| Presentation Drawing [3D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31202 |
-| Presentation Drawing - Commercial/Public Structure - Any Method Other Than Computer. | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31203 |
-| Presentation Drawing - Commercial/Public Structure [2D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31204 |
-| Presentation Drawing - Commercial/Public Structure [3D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Single Sheet Only. | HP31205 |
+Presentation Drawings are single sheet documents that are used typically for sales. Examples include sales flyers a home builder would hand out of available floor plans in a subdivision, available rental space of a building or warehouse, and presentation to a client. Residential floor plan should include Room Names, Room Sizes, Important features but not full dimensions. Commercial floor plans should include Area Names, Area Sizes, Area Square Footages, and Important features. Exterior views can be rendered, shaded or line views.
+
+| Event                                                                                | Details                                                                                  | Event # |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------- |
+| Presentation Drawing - Any Method Other Than Computer.                               | Residential-Exterior View & Floor Plan ONLY. Illustrating is allowed. Single sheet only. | HP31200 |
+| Presentation Drawing [2D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31201 |
+| Presentation Drawing [3D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31202 |
+| Presentation Drawing - Commercial/Public Structure - Any Method Other Than Computer. | Residential-Exterior View & Floor Plan ONLY. Illustrating is allowed.Single Sheet Only.  | HP31203 |
+| Presentation Drawing - Commercial/Public Structure [2D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31204 |
+| Presentation Drawing - Commercial/Public Structure [3D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31205 |
 
 ### Architectural Media
+
+Architectural Media uses rendering methods to create realistic views of a structure or landscaped area. Animations (Walkthrough and Flythrough) show how navigating a structure or site would look.
 
 | Event                                                                                | Details                                                        | Event # |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------- |
@@ -207,14 +215,14 @@ Constructions Drawings are to include but not limited to:
 
 ### Interior Design
 
-| Event                                                                              | Details                                                                                                                                                | Event # |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| Residential Interior Design Material Sample Board                                  |                                                                                                                                                        | HP31400 |
-| Commercial Interior Design Material Sample Board                                   |                                                                                                                                                        | HP31401 |
-| Residential Illustrated Perspective Interior View. Any Method Other Than Computer. | Interior view focusing on furniture and finishes. Perspective can be either Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".   | HP31402 |
-| Commercial Illustrated Perspective Interior View. Any Method Other Than Computer.  | Interior view focusing on furniture and finishes. Perspective can be either Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".   | HP31403 |
-| Residential Illustrated Perspective Interior View.[CADD]                           | Interior view focusing on furniture and finishes. Perspective can be either a Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24". | HP31404 |
-| Commercial Illustrated Perspective Interior View.[CADD]                            | Interior view focusing on furniture and finishes. Persepctive may be either a Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24". | HP31405 |
+| Event                                                                              | Details                                                                                                                                                                                                                                                                   | Event # |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Residential Interior Design Material Sample Board                                  | Design boards should include but not limited to samples for all finishes, color coordination, sample furniture and other import design elements. Floor plans should be included showing finishes, furniture layout and color schemes. Sample board not to exceed 24"x36". | HP31400 |
+| Commercial Interior Design Material Sample Board                                   | Design boards should include but not limited to samples for all finishes, color coordination, sample furniture and other import design elements. Floor plans should be included showing finishes, furniture layout and color schemes. Sample board not to exceed 24"x36". | HP31401 |
+| Residential Illustrated Perspective Interior View. Any Method Other Than Computer. | Interior view focusing on furniture and finishes. Perspective can be either Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".                                                                                                                      | HP31402 |
+| Commercial Illustrated Perspective Interior View. Any Method Other Than Computer.  | Interior view focusing on furniture and finishes. Perspective can be either Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".                                                                                                                      | HP31403 |
+| Residential Illustrated Perspective Interior View.[CADD]                           | Interior view focusing on furniture and finishes. Perspective can be either a Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".                                                                                                                    | HP31404 |
+| Commercial Illustrated Perspective Interior View.[CADD]                            | Interior view focusing on furniture and finishes. Persepctive may be either a Single Point or 2 Point perspective. Single Sheet not to exceed 18"x24".                                                                                                                    | HP31405 |
 
 ## Section 3.2 - Models
 

@@ -31,7 +31,7 @@ Definitions:
 | Calendar - Multiple Sheets                    | All 12 months bound using a binding method. Size not to exceed 12"x18".                                                                                                                                                                             | HP20005 |
 | Folded Handout - Any Number of Printed Panels | Max paper size is 8.5 x 11. May include: invitations, greeting cards, menus, etc.                                                                                                                                                                   | HP20006 |
 | Thematic Poster 12 x 18 max size              | Must follow the yearly conference theme set by National TSA                                                                                                                                                                                         | HP20007 |
-| Thematic Portfolio to Promote a Business      | Must include letterhead, business card, and flyer (Letterhead, Business Card and Flyer cannot be entered in any another category)                                                                                                                   | HP20008 |
+| Thematic Portfolio to Promote a Business      | Must include letterhead, business card, and flyer (Letterhead, Business Card and Flyer cannot be entered separately in any another category)                                                                                                        | HP20008 |
 | Safety Poster                                 | A poster designed to display a safety measure related to a specific workplace or classroom procedure. Size not to exceed 18"x24".                                                                                                                   | HP20009 |
 
 ### Publications
@@ -151,18 +151,18 @@ Items in this section involve student created projects in which students used mu
 
 ### Video Game Design
 
-| Event         | Details                                                                                                                                | Event # |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Video Game 2D | Students must submit: Code file or link for drag and drop language URL to a video of the game/program running (max length of 1 minute) | HP22100 |
-| Video Game 3D | Students must submit: Code file or link for drag and drop language URL to a video of the game/program running (max length of 1 minute) | HP22101 |
+| Event         | Details                                                                                                                               | Event # |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Video Game 2D | Students must submit: 1) A URL link to a video of the game running not to exceed 1 minute in length. 2) The code in PDF for the game. | HP22100 |
+| Video Game 3D | Students must submit: 1) A URL link to a video of the game running not to exceed 1 minute in length. 2) The code in PDF for the game. | HP22101 |
 
 ### Programming
 
-| Event                                      | Details                                                                                                                                | Event # |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Program with text-based interface          | Students must submit: Code file or link for drag and drop language URL to a video of the game/program running (max length of 1 minute) | HP22200 |
-| Program with graphical user interface      | Students must submit: Code file or link for drag and drop language URL to a video of the game/program running (max length of 1 minute) | HP22201 |
-| Program made with a drag and drop language | Students must submit: Code file or link for drag and drop language URL to a video of the game/program running (max length of 1 minute) | HP22202 |
+| Event                                      | Details                                                                                                                                     | Event # |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Program with text-based interface          | Students must submit: 1) A URL link to a video of the program running not to exceed 1 minute in length. 2) The code in PDF for the program. | HP22200 |
+| Program with graphical user interface      | Students must submit: 1) A URL link to a video of the program running not to exceed 1 minute in length. 2) The code in PDF for the program. | HP22201 |
+| Program made with a drag and drop language | Students must submit: 1) A URL link to a video of the program running not to exceed 1 minute in length. 2) The code in PDF for the program. | HP22202 |
 
 ## Section 2.3 - Photography
 
@@ -198,8 +198,7 @@ Projects in this section are submitted virtually. All digital photographs **must
 | Architecture - Cityscapes                     | The physical aspects of a city or urban area.                                                                                                                                                                                                                                              | HP23103 |
 | Architecture - Industrial                     | Buildings and structures serving commerce and/or industry such as a factory or warehouse. Other examples could include inside of a manufacturing plant, oil drilling, refineries, or production assembly.                                                                                  | HP23104 |
 | Architecture - Interior                       | Photographs of the interior spaces focusing on the use of colors, textures, patterns and layouts.                                                                                                                                                                                          | HP23105 |
-| Architecture - Street Art (Includes Graffiti) | Photography conducted for art or inquiry that features unmediated chance encounters and random incidents within public places, usually with the aim of capturing images at a decisive or poignant moment by careful framing and timing. Street Art can also include graffiti on buildings. |
-| HP23106                                       |
+| Architecture - Street Art (Includes Graffiti) | Photography conducted for art or inquiry that features unmediated chance encounters and random incidents within public places, usually with the aim of capturing images at a decisive or poignant moment by careful framing and timing. Street Art can also include graffiti on buildings. | HP23106 |
 
 ### Event
 
@@ -255,10 +254,10 @@ Projects in this section are submitted virtually. All digital photographs **must
 
 ### Photomanipulation
 
-| Event                                       | Details                                                                                                   | Event # |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------- |
-| Photomanipulation - Background Manipulation | Photograph affects applied only to the background of an image that does not include focus subject matter. | HP23700 |
-| Photomanipulation - Subject Manipulation    | Photograph affects applied only to the focus subject matter while leaving the background unchanged.       | HP23701 |
+| Event                                       | Details                                                                                                 | Event # |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------- |
+| Photomanipulation - Background Manipulation | Photograph edits applied only to the background of an image that does not include focus subject matter. | HP23700 |
+| Photomanipulation - Subject Manipulation    | Photograph edits applied only to the focus subject matter while leaving the background unchanged.       | HP23701 |
 
 ### Sports
 

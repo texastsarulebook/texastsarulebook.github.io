@@ -119,7 +119,7 @@ Engineering media uses rendering methods to create a realistic view of a part or
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------- |
 | Engineering Media - Original 3D Computer Image of a Mechanical Part or Parts                           |                                                                                      | HP30500 |
 | Engineering Media - Animated Assembly or Mechanical Movement of Multiple Mechanical Parts - 60 sec max |                                                                                      | HP30501 |
-| Engineering Media - Animated Transpiration Device - 60 sec max                                         |                                                                                      | HP30502 |
+| Engineering Media - Animated Transportation Device - 60 sec max                                        |                                                                                      | HP30502 |
 | Engineering Media - Engineering Presentation Animation Multiple Parts - 3 min max                      | Reserved for students working with 3D apps, advanced modeling and animation software | HP30503 |
 
 ## Section 3.1 - Architecture

@@ -12,7 +12,7 @@ A trebucchet is a type of catapult that uses a swinging arm to throw a projectil
 
 The later, and often larger, counterweight trebuchet, also known as the counterpoise trebuchet, uses a counterweight to swing the arm. It appeared in both Christian and Muslim lands around the Mediterranean in the 12th century and made its way back to China via Mongol conquests in the 13th century.
 
-[Trebuchet Rules](https://example.com)
+[Trebuchet Rules](https://drive.google.com/file/d/1Nl93W74H_8KMwX9EriUVdFliaH1wGxKE/view?usp=sharing)
 
 ### Middle School
 

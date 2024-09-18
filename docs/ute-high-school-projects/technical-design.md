@@ -154,6 +154,8 @@ Constructions Drawings are to include but not limited to:
 - Floor Plan(s)
 - Elevations
 - Roof Plan
+- Reflected Ceiling Plan (Commercial Only)
+- Electrical Drawings - Include at minimum Electrical Outlets, Light Switches, and Lighting.
 
 | Event                                                                                             | Details                                                                                                                                                                                                                                              | Event # |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

@@ -52,7 +52,7 @@ Cody Logsdon and Kristin Rausch
 
 ### RECF (VEX Robotics) Event Managers
 
-Emily Gresham, Devon Murphy, & Thea Drake  
+Emily Gresham, Devin Murphy, & Thea Drake  
 [vex@texastsa.org](mailto:vex@texastsa.org)
 
 ### Data Managers

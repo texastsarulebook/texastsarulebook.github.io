@@ -169,11 +169,11 @@ Items in this section involve student created projects in which students used mu
 Items in this section involve student created projects in which students used a camera to create images to capture a moment in time. Students may use a traditional film camera, digital camera or phone camera. The only post click edits allowed to the photographs are:
 
 - Cropping or Trimming
-- Adding a filter
 
 Otherwise they are to be submitted without any post click edits to the image unless otherwise allowed in that specific category. Types of unallowed edits include but not limited to:
 
 - Converting from Color to Black and White
+- Adding a filter
 - Removing an element from an image
 - Post click edits of White Balance, Contrast and Exposure, Saturation and Sharpness
 

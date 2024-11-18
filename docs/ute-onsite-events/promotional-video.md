@@ -10,6 +10,8 @@ import UteOnsiteBanner from '/ute-onsite-banner.mdx'
 
 Applying leadership and 21st century skills, participants showcase video skills, tools, and processes to communicate, inform, and promote a topic, idea, subject, or concept through a film produced on-site at the Texas TSA Conference. Required criteria, such as props and a line of dialogue, make the competition more challenging and will be revealed at the event orientation meeting. Teams will be given 24 hours to complete the solution to the challenge.
 
+[Promotional Video](https://drive.google.com/file/d/1v8wmkbQQn73uTVbcdpsx_145nDrcWlNJ/view?usp=sharing)
+
 ### Middle School
 
 | Event             | Team Size               |

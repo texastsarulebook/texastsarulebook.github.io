@@ -32,7 +32,7 @@ import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'
 
 | Event                      | Details                                                                                                                                                                                    | Event # |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| Exploratory - Engineering  | Create the top, front, and right view sketch of the power tool in a picture provided with the prompt.  All views must fit on 1 sheet of paper, size 8.5"x11".                              | HP02000 |
+| Exploratory - Engineering  | Create the top, front, and right view sketch of the following [power tool](https://drive.google.com/file/d/1v4LYxtbRl5gyHozU8gFQj-uHNXRPnAjj/view?usp=sharing).  All views must fit on 1 sheet of paper, size 8.5"x11".                              | HP02000 |
 | Exploratory - Architecture | Free hand sketch any exterior view of this [house](https://www.coolhouseplans.com/plan-51992). Pen or Pencil only on 8.5" x 11" white cardstock paper.                                                                                  | HP02100 |
 | Exploratory - Models       | Create a scale model of “SheShed'' that is 8'x16'. Include floor plan and interior elevations on the inside of the model with a removable roof. Model is limited to an 8.5"x11" footprint. | HP02200 |
 

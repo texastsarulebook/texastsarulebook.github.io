@@ -48,15 +48,15 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Chapter Team                  | 3                | 1                 |
 | MS Children's Stories            | 3                | Region Limit Only |
 | MS Coding                        | 3                | 1                 |
-| MS Community Service Video       | 6                | 1                 |
+| MS Community Service Video       | 3                | 1                 |
 | MS Construction Challenge        | 3                | 1                 |
 | MS Cyber Security                | 3                | 3                 |
 | MS Data Science and Analytics    | 3                | Region Limit Only |
 | MS Digital Photography           | 3                | Region Limit Only |
-| MS Dragster                      | 6                | 2                 |
+| MS Dragster                      | 3                | 2                 |
 | MS Electrical Applications       | 3                | 1                 |
 | MS Essays on Technology          | 2                | 2                 |
-| MS Flight                        | 6                | 2                 |
+| MS Flight                        | 3                | 2                 |
 | MS Forensic Technology           | 3                | 1                 |
 | MS Inventions and Innovations    | 3                | 1                 |
 | MS Junior Solar Sprint           | 3                | 1                 |

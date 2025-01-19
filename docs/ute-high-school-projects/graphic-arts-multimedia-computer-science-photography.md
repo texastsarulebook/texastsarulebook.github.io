@@ -177,7 +177,7 @@ Otherwise they are to be submitted without any post click edits to the image unl
 - Removing an element from an image
 - Post click edits of White Balance, Contrast and Exposure, Saturation and Sharpness
 
-Projects in this section are submitted virtually. All digital photographs **must** be a .jpeg file format.
+Projects in this section are submitted virtually. All digital photographs **must** be a .pdf file format.
 
 ### Advertising
 

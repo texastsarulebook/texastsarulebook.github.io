@@ -48,8 +48,7 @@ Pamela Cook
 ### National Qualifying Event (NQE) Managers
 
 Cody Logsdon, Kristin Rausch, and Tara Dye (MS) 
-[nqe@texastsa.org](mailto:nqe@texastsa.org)
-[nqe-ms@texastsa.org](mailto:nqe@texastsa.org)
+[nqe@texastsa.org](mailto:nqe@texastsa.org) or [nqe-ms@texastsa.org](mailto:nqe-ms@texastsa.org)
 
 ### RECF (VEX Robotics) Event Managers
 

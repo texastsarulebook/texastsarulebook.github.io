@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ### NQE & UTE On-Site Events
 
-Number of entries at the state conference will follow the guidelines established in the On-site Events sections of this rulebook.
+Each Region is allowed to advance (5) UTE On-Site Entries to the state conference. These limits will be enforced and Regional Associations will not be provided additional slots.  
 
 See the NQE and Unique to Texas Events sections of the rulebook for the number of entries allowed per region and school. These limits will be enforced and Regional Associations will not be provided additional slots.
 

@@ -134,7 +134,7 @@ Projects in this category mostly made of metal for the primary use as a trailer.
 
 | Event    | Details                                                            | Event # |
 | -------- | ------------------------------------------------------------------ | ------- |
-| Trailers | Single and double axle trailers are allowed. Due to space limitati | HP12200 |
+| Trailers | Single and double axle trailers are allowed. Due to space limitations trailers<br/>cannot exceed a total length of 24'-0" from tongue to tail. | HP12200 |
 
 ## Section 1.3 - Other Materials
 

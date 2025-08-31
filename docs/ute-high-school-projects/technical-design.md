@@ -29,10 +29,10 @@ Items in this category involve student created engineering projects in which stu
 
 | Event                                                                                                         | Details                                | Event # |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------- |
-| Mechanical Engineering - Free Hand Sketch of a Single or Multiple Part Mechanical Device. Pen or Pencil Only. | Shading is Allowed. Single Sheet Only. | HP30000 |
-| Aerospace Engineering - Free Hand Sketch of an Aerospace Device or Structure. Pen or Pencil Only.             | Shading is Allowed. Single Sheet Only. | HP30001 |
-| Electronic Engineering - Free Hand Sketch of an Electronic Device. Pen or Pencil Only.                        | Shading is Allowed. Single Sheet Only. | HP30002 |
-| Civil Engineering - Free Hand Sketch of a Civil Structure. Pen or Pencil Only.                                | Shading is Allowed. Single Sheet Only. | HP30003 |
+| Mechanical Engineering - Free Hand Sketch of a Single or Multiple Part Mechanical Device. Pen or Pencil Only. | Shading is Allowed. Shading can be graphite or color pencil only. Single sheet only. | HP30000 |
+| Aerospace Engineering - Free Hand Sketch of an Aerospace Device or Structure. Pen or Pencil Only.             | Shading is Allowed. Shading can be graphite or color pencil only. Single sheet only. | HP30001 |
+| Electronic Engineering - Free Hand Sketch of an Electronic Device. Pen or Pencil Only.                        | Shading is Allowed. Shading can be graphite or color pencil only. Single sheet only. | HP30002 |
+| Civil Engineering - Free Hand Sketch of a Civil Structure. Pen or Pencil Only.                                | Shading is Allowed. Shading can be graphite or color pencil only. Single sheet only. | HP30003 |
 
 ### Working Drawings
 
@@ -88,16 +88,16 @@ Presentation Drawing - the production of a drawing for the purpose of gaining su
 
 | Event                                                                                                          | Details                              | Event # |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
-| Mechanical Engineering - Presentation View Only of a Single or Multiple Parts. Any Method Other Than Computer. | Must Be Shaded. Single sheet only.   | HP30300 |
-| Mechanical Engineering - Presentation View Only of a Single Part. [CADD]                                       | Must Be Rendered. Single sheet only. | HP30301 |
-| Mechanical Engineering - Presentation View Only of 2-5 Mechanical Parts. [CADD]                                | Must Be Rendered. Single sheet only. | HP30302 |
-| Mechanical Engineering - Presentation View Only of 6-12 Mechanical Parts. [CADD]                               | Must Be Rendered. Single sheet only. | HP30303 |
-| Mechanical Engineering - Presentation View Only of 13 or More Mechanical Parts. [CADD]                         | Must Be Rendered. Single sheet only. | HP30304 |
-| Mechanical Engineering - Presentation View of Pipe Fabrication (Fluid Transportation). [CADD]                  | Must Be Rendered. Single sheet only. | HP30305 |
-| Mechanical Engineering - Presentation View of a Transportation Device. [CADD]                                  | Must Be Rendered. Single sheet only. | HP30306 |
-| Aerospace Engineering - Presentation View of an Aerospace Device or Structure. [CADD]                          | Must Be Rendered. Single sheet only. | HP30307 |
-| Electronic Engineering - Presentation View of an Electronic Device. [CADD]                                     | Must Be Rendered. Single sheet only. | HP30308 |
-| Civil Engineering - Presentation View of a Civil Structure. [CADD]                                             | Must Be Rendered. Single sheet only. | HP30309 |
+| Mechanical Engineering - Presentation View Only of a Single or Multiple Parts. Any Method Other Than Computer. | Must Be Shading. Shading can be graphite or color pencil only. Single sheet only.   | HP30300 |
+| Mechanical Engineering - Presentation View Only of a Single Part. [CADD]                                       | Assembled view only. Must Be Rendered. Single sheet only. | HP30301 |
+| Mechanical Engineering - Presentation View Only of 2-5 Mechanical Parts. [CADD]                                | Assembled view only. Must Be Rendered. Single sheet only. | HP30302 |
+| Mechanical Engineering - Presentation View Only of 6-12 Mechanical Parts. [CADD]                               | Assembled view only. Must Be Rendered. Single sheet only. | HP30303 |
+| Mechanical Engineering - Presentation View Only of 13 or More Mechanical Parts. [CADD]                         | Assembled view only. Must Be Rendered. Single sheet only. | HP30304 |
+| Mechanical Engineering - Presentation View of Pipe Fabrication (Fluid Transportation). [CADD]                  | Assembled view only. Must Be Rendered. Single sheet only. | HP30305 |
+| Mechanical Engineering - Presentation View of a Transportation Device. [CADD]                                  | Assembled view only. Must Be Rendered. Single sheet only. | HP30306 |
+| Aerospace Engineering - Presentation View of an Aerospace Device or Structure. [CADD]                          | MAssembled view only. Must Be Rendered. Single sheet only. | HP30307 |
+| Electronic Engineering - Presentation View of an Electronic Device. [CADD]                                     | Assembled view only. Must Be Rendered. Single sheet only. | HP30308 |
+| Civil Engineering - Presentation View of a Civil Structure. [CADD]                                             | Assembled view only. Must Be Rendered. Single sheet only. | HP30309 |
 
 ### Exploded Presentation View
 
@@ -105,11 +105,11 @@ Exploded Presentation Drawing showing multiple parts in an isometric or 3D view 
 
 | Event                                                                                           | Details                              | Event # |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
-| Mechanical Engineering - Exploded Presentation View Only of 2-5 Mechanical Parts. [CADD]        | Must Be Rendered. Single sheet only. | HP30400 |
-| Mechanical Engineering - Exploded Presentation View Only of 6-12 Mechanical Parts. [CADD]       | Must Be Rendered. Single sheet only. | HP30401 |
-| Mechanical Engineering - Exploded Presentation View Only of 13 or More Mechanical Parts. [CADD] | Must Be Rendered. Single sheet only. | HP30402 |
-| Aerospace Engineering - Exploded Presentation View of an Aerospace Device or Structure. [CADD]  | Must Be Rendered. Single sheet only. | HP30403 |
-| Electronic Engineering - Exploded Presentation View of an Electronic Device. [CADD]             | Must Be Rendered. Single sheet only. | HP30404 |
+| Mechanical Engineering - Exploded Presentation View Only of 2-5 Mechanical Parts. [CADD]        | Exploded view only. Must Be Rendered. Single sheet only. | HP30400 |
+| Mechanical Engineering - Exploded Presentation View Only of 6-12 Mechanical Parts. [CADD]       | Exploded view only. Must Be Rendered. Single sheet only. | HP30401 |
+| Mechanical Engineering - Exploded Presentation View Only of 13 or More Mechanical Parts. [CADD] | Exploded view only. Must Be Rendered. Single sheet only. | HP30402 |
+| Aerospace Engineering - Exploded Presentation View of an Aerospace Device or Structure. [CADD]  | Exploded view only. Must Be Rendered. Single sheet only. | HP30403 |
+| Electronic Engineering - Exploded Presentation View of an Electronic Device. [CADD]             | Exploded view only. Must Be Rendered. Single sheet only. | HP30404 |
 
 ### Engineering Media
 
@@ -130,8 +130,10 @@ Items in this category involve student created architecture projects in which st
 
 | Event                                              | Details                                | Event # |
 | -------------------------------------------------- | -------------------------------------- | ------- |
-| Architectural Structure. Pen or Pencil Only.       | Shading is Allowed. Single Sheet Only. | HP31000 |
-| Free Hand Sketch of Landscape. Pen or Pencil Only. | Shading is Allowed. Single Sheet Only. | HP31001 |
+| Architectural Structure. Pen or Pencil Only.       | This event is designated for hand sketching only. Traditional board drafting techniques such as but not limited to scales, straight edges, or templates are not permitted.  Graphite and color shading is allowed. Single sheet only. | HP31000 |
+| Free Hand Sketch of Landscape. Pen or Pencil Only. | This event is designated for hand sketching only. Traditional board drafting techniques such as but not limited to scales, straight edges, or templates are not permitted.  Graphite and color shading is allowed. Single sheet only. | HP31001 |
+| Perspective Drawing of an Architectural Structure. Pen or Pencil Only. | Any number of vanishing points are allowed. Shading using monochromatic or color is allowed. Single sheet only. | HP31002|
+
 
 ### Construction Drawing
 
@@ -185,7 +187,7 @@ Constructions Drawings are to include but not limited to:
 | Construction Drawings of a Recreational Facility/Public Structure [3D CADD]                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31123 |
 | Construction Drawings of a Residential Remodeling [2D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31124 |
 | Construction Drawings of a Residential Remodeling [3D CADD]                                       | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31125 |
-| Construction Drawings of Detailing of Architectural Elements [2D & 3D CADD]                       | Can Include but not limited to Walls, Windows, Doors, Stairs, Cabinetry, Foundations, and Full Building Sections                                                                                                                                     | HP31126 |
+| Construction Drawings of Detailing of Architectural Elements [2D & 3D CADD]                       | Can Include but not limited to Walls, Windows, Doors, Stairs, Cabinetry, Foundations, and Full Building Sections. Single sheet only.                                                                                                                                     | HP31126 |
 | Construction Drawings of Architectural Landscape/Irrigation Plan. Any Method Other Than Computer. | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31127 |
 | Construction Drawings of Architectural Landscape/Irrigation Plan [2D & 3D CADD]                   | See required sheets for construction drawings at the beginning of this section.                                                                                                                                                                      | HP31128 |
 
@@ -196,10 +198,10 @@ Presentation Drawings are single sheet documents that are used typically for sal
 | Event                                                                                | Details                                                                                  | Event # |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------- |
 | Presentation Drawing - Any Method Other Than Computer.                               | Residential-Exterior View & Floor Plan ONLY. Illustrating is allowed. Single sheet only. | HP31200 |
-| Presentation Drawing [2D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31201 |
+| Presentation Drawing [2D CADD]                                                       | Residential-Exterior Front Elevation View and Floor Plan ONLY. Illustrating is allowed. Single sheet only.    | HP31201 |
 | Presentation Drawing [3D CADD]                                                       | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31202 |
 | Presentation Drawing - Commercial/Public Structure - Any Method Other Than Computer. | Residential-Exterior View & Floor Plan ONLY. Illustrating is allowed.Single Sheet Only.  | HP31203 |
-| Presentation Drawing - Commercial/Public Structure [2D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31204 |
+| Presentation Drawing - Commercial/Public Structure [2D CADD]                         | Commercial-Exterior Front Elevation View and Floor Plan ONLY. Illustrating is allowed. Single sheet only.    | HP31204 |
 | Presentation Drawing - Commercial/Public Structure [3D CADD]                         | Residential-Exterior View & Floor Plan ONLY. Rendering is allowed. Single Sheet Only.    | HP31205 |
 
 ### Architectural Media
@@ -210,10 +212,10 @@ Architectural Media uses rendering methods to create realistic views of a struct
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------- |
 | Architectural Media - Computer Generated Original 3D Image - Landscape               | Structures can be included but are not the focus of the image. | HP31300 |
 | Architectural Media - Computer Generated Original 3D Image - Architectural Structure | Landscaping can be included but is not the focus of the image. | HP31301 |
-| Architectural Media - Architectural Walkthrough - 90 sec max                         |                                                                | HP31302 |
-| Architectural Media - Architectural Flythrough - 90 sec max                          |                                                                | HP31303 |
-| Architectural Media - Landscape Walkthrough - 90 sec max                             |                                                                | HP31304 |
-| Architectural Media - Landscape Flythrough - 90 sec max                              |                                                                | HP31305 |
+| Architectural Media - Architectural Walkthrough - 90 sec max                         | Camera height between 4'-7' above ground level.                | HP31302 |
+| Architectural Media - Architectural Flythrough - 90 sec max                          | Camera height at least 20' above ground level.                 | HP31303 |
+| Architectural Media - Landscape Walkthrough - 90 sec max                             | Camera height between 4'-7' above ground level.                | HP31304 |
+| Architectural Media - Landscape Flythrough - 90 sec max                              | Camera height at least 20' above ground level.                 | HP31305 |
 
 ### Interior Design
 

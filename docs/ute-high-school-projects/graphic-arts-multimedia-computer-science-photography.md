@@ -23,15 +23,15 @@ Definitions:
 
 | Event                                         | Details                                                                                                                                                                                                                                             | Event # |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Business Cards                                | Provide (4) different design options on 8.5” x 11” paper. Choose (1) Final Design and provide a cardstock version not to exceed 3.5”x3.5”. Standard business cards are 3.5”x2”.                                                                     | HP20000 |
-| Certificate                                   | Include Type of Certificate, Reason for Certification, Certificate Recipient, and Certificate Presenter                                                                                                                                             | HP20001 |
+| Business Cards                                | Provide (4) different design options on 8.5” x 11” paper.  Choose (1) Final Design and provide a cardstock version not to exceed 3.5”x3.5”. Standard business cards are 3.5”x2”. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                     | HP20000 |
+| Certificate                                   | Certificate must include Type of Certificate, Reason for Certification, Certificate Recipient, and Certificate Presenter. Copyright names and images cannot be used. All graphics and pictures must be original work of the student. Presenter                                                                                                                                             | HP20001 |
 | Flyer - Single Sheet                          | Provide a printed informational sheet for an event. Example - promotional handout for a benefit concert, CTSO fundraiser, car show, etc. Copyright names and images cannot be used. All graphics and pictures must be original work of the student. | HP20002 |
-| Letterhead                                    | Must include Company Name, Logo, Phone Number, Address, and any other business information.                                                                                                                                                         | HP20003 |
-| Calendar - Single Sheet                       | All 12 months on one sheet with a minimum of one picture or image. Size not to exceed 12"x18".                                                                                                                                                      | HP20004 |
-| Calendar - Multiple Sheets                    | All 12 months bound using a binding method. Size not to exceed 12"x18".                                                                                                                                                                             | HP20005 |
+| Letterhead                                    | Must include Company Name, Logo, Phone Number, Address, and any other business information. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                                                                                         | HP20003 |
+| Calendar - Single Sheet                       | All 12 months on one sheet with a minimum of one picture or image. Size not to exceed 12”x18”. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                                                                                      | HP20004 |
+| Calendar - Multiple Sheets                    | AAll 12 months bound using a binding method. Size not to exceed 12”x18”. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                                                                                                             | HP20005 |
 | Folded Handout - Any Number of Printed Panels | Max paper size is 8.5 x 11. May include: invitations, greeting cards, menus, etc.                                                                                                                                                                   | HP20006 |
 | Thematic Poster 12 x 18 max size              | Must follow the yearly conference theme set by National TSA                                                                                                                                                                                         | HP20007 |
-| Thematic Portfolio to Promote a Business      | Must include letterhead, business card, and flyer (Letterhead, Business Card and Flyer cannot be entered separately in any another category)                                                                                                        | HP20008 |
+| Thematic Portfolio to Promote a Business      | Must include letterhead, business card, and flyer (Letterhead, Business Card and Flyer cannot be separately entered in any another category). Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                                        | HP20008 |
 | Safety Poster                                 | A poster designed to display a safety measure related to a specific workplace or classroom procedure. Size not to exceed 18"x24".                                                                                                                   | HP20009 |
 
 ### Publications
@@ -40,7 +40,7 @@ Definitions:
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ------- |
 | Bound Multiple Page Document | Instructional manual, memory book, course description, student handbook, etc. that is bound on one edge      | HP20100 |
 | Yearbook Layout              | Student produced single page spread covering school athletics, club organization, or campus event.           | HP20101 |
-| Newsletter                   | Must include text wrapping images or graphics on a single sheet                                              | HP20102 |
+| Newsletter                   | Must include text wrapping images or graphics on a single sheet. Copyright names and images cannot be used.<br/>All graphics and pictures must be original work of the student.                                              | HP20102 |
 | Magazine Layout              | Single Page must be submitted on 8.5 x 11 page. All photos and stories must be original work of the student. | HP20103 |
 
 ### Marketing
@@ -49,7 +49,7 @@ Definitions:
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Product Label              | Example could be a soup can label. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                                                     | HP20200 |
 | Product Packaging          | Provide packaging for a retail product. Example - Electronic box, toy, or wrapper. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                     | HP20201 |
-| Sticker Decal              | Provide one final product sticker.                                                                                                                                                                                                                                | HP20202 |
+| Sticker Decal              | Provide one final product sticker. Copyright names and images cannot be used. All graphics and pictures must be original work of the student.                                                                                          | HP20202 |
 | Computer Image Transfer    | Product Graphic Printing entries must include one printed product in order to judge quality along with content, composition and overall effect. Can Include TSA Club T-Shirt. Product must be in a maximum of 2 gallon Ziploc style clear bag with documentation. | HP20203 |
 | Sublimation                | Product Graphic Printing entries must include one printed product in order to judge quality along with content, composition and overall effect. Can Include TSA Club T-Shirt. Product must be in a maximum of 2 gallon Ziploc style clear bag with documentation. | HP20204 |
 | Screen Print Communication | Should Advertise a Product, Place Or Upcoming Event. Can Include TSA Club T-Shirt (Commercial and Non-Commercial Screen Printing Allowed)                                                                                                                         | HP20205 |
@@ -59,10 +59,10 @@ Definitions:
 
 | Event                                            | Details                                                                                                                         | Event # |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Technical Report - Architecture and Construction | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max | HP20300 |
-| Technical Report - Engineering Design            | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max | HP20301 |
-| Technical Report - Information Technology        | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max | HP20302 |
-| Technical Report - Bio-Technology                | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max | HP20303 |
+| Technical Report - Architecture and Construction | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max. The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP20300 |
+| Technical Report - Engineering Design            | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max. The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP20301 |
+| Technical Report - Information Technology        | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max. The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP20302 |
+| Technical Report - Bio-Technology                | Using Word Processing software create a technical report – include a cover sheet, body of report, and bibliography. 4 pages max. The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP20303 |
 
 ## Section 2.1 - Multimedia
 
@@ -70,10 +70,10 @@ Items in this section involve student created projects in which students used mu
 
 ### Presentations
 
-| Event                                        | Event # |
-| -------------------------------------------- | ------- |
-| Computer Generated Presentation 1-10 slides  | HP21000 |
-| Computer Generated Presentation 11-20 slides | HP21001 |
+| Event                                        | Details |Event # |
+| -------------------------------------------- | ------- | ------- |
+| Computer Generated Presentation 1-10 slides  | The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP21000 |
+| Computer Generated Presentation 11-20 slides | The use of AI applications are prohibited. Use of AI will result in disqualification of entry. | HP21001 |
 
 ### Audio Editing
 
@@ -143,11 +143,11 @@ Items in this section involve student created projects in which students used mu
 
 ### Web Design
 
-| Event                                       | Event # |
-| ------------------------------------------- | ------- |
-| Webpage Design - Individual Webpage         | HP22000 |
-| Webpage Design - School Related Webpage     | HP22001 |
-| Webpage Design - Commercial Related Webpage | HP22002 |
+| Event                                       | Details | Event # |
+| ------------------------------------------- | ------- | ------- |
+| Webpage Design - Individual Webpage         |         | HP22000 |
+| Webpage Design - School Related Webpage     | School names, mascot and logos are permitted in this event. | HP22001 |
+| Webpage Design - Commercial Related Webpage | Copyright names and images cannot be used. All graphics and pictures must be original work of the student.  | HP22002 |
 
 ### Video Game Design
 

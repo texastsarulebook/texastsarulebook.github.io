@@ -132,7 +132,8 @@ Items in this category involve student created architecture projects in which st
 | -------------------------------------------------- | -------------------------------------- | ------- |
 | Architectural Structure. Pen or Pencil Only.       | This event is designated for hand sketching only. Traditional board drafting techniques such as but not limited to scales, straight edges, or templates are not permitted.  Graphite and color shading is allowed. Single sheet only. | HP31000 |
 | Free Hand Sketch of Landscape. Pen or Pencil Only. | This event is designated for hand sketching only. Traditional board drafting techniques such as but not limited to scales, straight edges, or templates are not permitted.  Graphite and color shading is allowed. Single sheet only. | HP31001 |
-| Perspective Drawing of an Architectural Structure. Pen or Pencil Only. | Any number of vanishing points are allowed. Shading using monochromatic or color is allowed. Single sheet only. | HP31002|
+| Perspective Drawing of an Architectural Subject. Pen or Pencil Only. | Any number of vanishing points are allowed. Shading using monochromatic or color is allowed. Single sheet only. | HP31002 |
+| Perspective Drawing of a Landscape Subject. Pen or Pencil Only. | Any number of vanishing points are allowed. Shading using monochromatic or color is allowed. Single sheet only. | HP31003 |
 
 
 ### Construction Drawing

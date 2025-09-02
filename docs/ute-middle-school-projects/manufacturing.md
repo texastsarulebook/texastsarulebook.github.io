@@ -56,6 +56,10 @@ Computer Numerical Control (CNC) or Computer Aided Manufacturing (CAM) devices a
 | CNC/CAM 3D Printer/Rapid Prototype - Architectural Single Part     | MP10401 |
 | CNC/CAM 3D Printer/Rapid Prototype - Biomedical Single Part        | MP10402 |
 | CNC/CAM 3D Printer/Rapid Prototype - Any Other Subject Single Part | MP10403 |
+| CNC/CAM 3D Printer/Rapid Prototype - Engineering 2-5 Parts         | MP10404 |
+| CNC/CAM 3D Printer/Rapid Prototype - Engineering 6 or More Parts   | MP10405 |
+| CNC/CAM 3D Printer/Rapid Prototype - All Other Subjects 2-5 parts  | MP10406 |
+| CNC/CAM 3D Printer/Rapid Prototype - All Other Subjects 6 or more parts  | MP10407 |
 
 ## Section 1.1 - Wood
 

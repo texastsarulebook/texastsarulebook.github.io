@@ -48,7 +48,7 @@ Working Drawings - drawings that are used to provide the technical details of a 
 
 | Event                                                                                                      | Details                                                                                          | Event # |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
-| Mechanical Engineering - Working Drawings of a Single or Multiple Parts. Pen or Pencil Only                | Working Drawings to include Front, Top, and Right Side Views.                                    | MP30100 |
+| Mechanical Engineering - Working Drawings of a Single or Multiple Parts. Pen or Pencil Only                | Shading is Allowed. Shading can be graphite or color pencil only. Single sheet only.             | MP30100 |
 | Mechanical Engineering - Working Drawings of a Single or Multiple Parts. [CADD]                            | Working Drawings to include Front, Top, and Right Side Views.                                    | MP30101 |
 | Mechanical Engineering - Working Drawings of a Single Part with a Pictorial View. [CADD]                   | Working Drawings to include Front, Top, Right Side and an Isometric View (No Rendering Allowed). | MP30102 |
 | Mechanical Engineering - Working Drawings of 2 or More Mechanical Parts. [CADD]                            | Working Drawings to include Front, Top, and Right Side Views of Each Part.                       | MP30103 |
@@ -70,7 +70,7 @@ Presentation Drawing - the production of a drawing for the purpose of gaining su
 
 | Event                                                                                              | Details                              | Event # |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
-| Mechanical Engineering - Presentation View Only of a Single or Multiple Parts. Pen or Pencil Only. | Must Be Shaded. Single Sheet Only.   | MP30300 |
+| Mechanical Engineering - Presentation View Only of a Single or Multiple Parts. Pen or Pencil Only. | Must Be Shading. Shading can be graphite or color pencil only. Single sheet only.   | MP30300 |
 | Mechanical Engineering - Presentation View Only of a Single or Multiple Parts. [CADD]              | Must Be Rendered. Single Sheet Only. | MP30301 |
 
 ## Section 3.1 - Architecture
@@ -81,7 +81,7 @@ Items in this category involve student created architecture projects in which st
 
 | Event                                                               | Details                                | Event # |
 | ------------------------------------------------------------------- | -------------------------------------- | ------- |
-| Free Hand Sketch of an Architectural Structure. Pen or Pencil Only. | Shading is Allowed. Single Sheet Only. | MP31000 |
+| Free Hand Sketch of an Architectural Structure. Pen or Pencil Only. | This event is designated for hand sketching only. Traditional board drafting techniques such as but not limited to scales, straight edges, or templates are not permitted. Graphite and color shading is allowed. Single sheet only. | MP31000 |
 
 ### Construction Drawings
 

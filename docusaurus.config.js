@@ -67,7 +67,7 @@ const config = {
       announcementBar: {
         id: "announcement",
         content:
-          "The new rulebook for the 2024-2025 school year is now available!",
+          "The new rulebook for the 2025-2026 will be available soon!",
         isCloseable: false,
       },
       navbar: {

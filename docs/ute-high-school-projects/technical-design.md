@@ -231,7 +231,9 @@ Architectural Media uses rendering methods to create realistic views of a struct
 
 ## Section 3.2 - Models
 
-Items in this category involve projects in which students created and designed structures, models, used commercial kits, or highlighted the design process.
+Items in this category involve projects in which students created and designed structures, models, used commercial kits, or highlighted the design process. 
+
+The base of a model cannot exceed 24”x36”. A copy of the floor plan MUST be included with the model.
 
 ### Finish Models
 

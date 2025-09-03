@@ -115,7 +115,7 @@ Constructions Drawings are to include but not limited to:
 
 | Event                                    | Details                                     | Event # |
 | ---------------------------------------- | ------------------------------------------- | ------- |
-| Architecture Presentation Drawing [CADD] | Floor Plan and Elevation Only. Single Sheet | MP31200 |
+| Architecture Presentation Drawing [CADD] | Floor Plan and Front Elevation Only. Single sheet only. | MP31200 |
 
 ## Section 3.2 - Models
 

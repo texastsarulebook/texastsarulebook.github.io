@@ -12,14 +12,8 @@ sidebar_position: 1
 
 ## Required Identification
 
-1. Registrants must wear conference identification badges at all times. Identification must be in the form of the Conference Badge and Lanyard supplied by Texas TSA when chapters check in.
+1. Registrants must wear conference identification badges at all times. Identification must be in the form of the conference badge and lanyard supplied by Texas TSA when chapters check in.
 2. Conference badge & lanyard must be worn around the neck in plain view at all times. There is a charge for replacement of lost/damaged/destroyed lanyards and/or Conference badge.
-
-:::info ID Replacement Cost
-
-The cost of a replacement ID is $5/badge.
-
-:::
 
 ## National Competitive Events
 
@@ -49,7 +43,7 @@ The cost of a replacement ID is $5/badge.
 3. Each participant/team shall submit only one (1) entry per event.
 4. All entries must be in English.
 5. Participants must meet any additional requirements imposed by Texas TSA if an event must be modified. Advance notice will be posted on the Contest FAQ’s pages.
-6. Unless otherwise specified, no identifying information-other than a student or team ID# is to be included on an entry.
+6. Unless otherwise specified, no identifying information-other than a student or team ID# is to be included on an entry unless specifically stated in the event rules..
 7. Texas and National TSA provides guidelines for individual and team entry content but does not bear responsibility for content choices made by participants.
 
 ## Prohibited Materials, References, and Images

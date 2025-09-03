@@ -5,8 +5,7 @@ sidebar_position: 3
 # National Qualifying Events
 
 :::info Important
-National Qualifying Events (NQE) are events that can be competed at the Regional, State and National level. The National level rules can be downloaded from the Total TSA dashboard once your chapter has finalized registration with National TSA. These rules and requirements may be modified at the State and Regional
-levels. Details what NQE events are offered and how they are managed at the Texas State Conference are below.
+National Qualifying Events (NQE) are events that can be competed at the regional, state and national level.  The Competitive Events Guide can be downloaded from the Total TSA dashboard once your chapter has finalized registration with National TSA. These rules and requirements may be modified at the state and regional levels. Details what NQE events are offered and how they are managed at the Texas state conference are below.
 
 **Attendance at the State Conference is required of any students competing in this category.**
 

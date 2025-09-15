@@ -40,10 +40,11 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 
 | Events                           | # Entries/Region |
 | -------------------------------- | ---------------- |
+| MS Audio Podcasting              | 3                |
 | MS Biotechnology Design          | 3                |
 | MS CAD Foundations               | 3                |
 | MS Career Prep                   | 3                |
-| MS Challenging Technology Issues | 3                |
+| MS Challenging Technology Issues | 2                |
 | MS Chapter Team                  | 3                |
 | MS Children's Stories            | 3                | 
 | MS Coding                        | 3                |
@@ -53,13 +54,13 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Data Science and Analytics    | 3                | 
 | MS Digital Photography           | 3                | 
 | MS Dragster                      | 3                |
+| MS Drone                         | 3                |
 | MS Electrical Applications       | 3                |
-| MS Essays on Technology          | 2                |
 | MS Flight                        | 3                |
 | MS Forensic Technology           | 3                |
 | MS Inventions and Innovations    | 3                |
-| MS Junior Solar Sprint           | 3                |
-| MS Leadership Strategies         | 3                | 
+| MS Solar Racer                   | 3                |
+| MS Leadership Strategies         | 2                | 
 | MS Mass Production               | 3                |
 | MS Mechanical Engineering        | 3                |
 | MS Medical Technology Issues     | 3                | 
@@ -74,7 +75,6 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Technical Design              | 3                |
 | MS Technology Bowl               | 3                |
 | MS Video Game Design             | 3                |
-| MS Vlogging                      | 3                |
 | MS Website Design                | 3                |
 
 ## High School Events

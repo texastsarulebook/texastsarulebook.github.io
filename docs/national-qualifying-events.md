@@ -34,7 +34,7 @@ Dress code is as follows:
 - Females may opt to wear skirts with or without hosiery in lieu of pants and socks
 - Chapter Team must wear official TSA blazers, with patch, and the red TSA tie (males). Per National TSA, females will not be penalized for wearing the tie, but it is optional for them.
 
-If you are unsure of the wording of a rule, have a question, or need clarification, please check the FAQ page. If it is not answered on the FAQ page, email the NQE Managers at [nqe@texastsa.org](mailto:nqe@texastsa.org)
+If you are unsure of the wording of a rule, have a question, or need clarification, please check the Texas TSA Event Modifications List. If it is not answered there, please email the NQE Managers at [nqe@texastsa.org](mailto:nqe@texastsa.org)
 
 ## Middle School Events
 
@@ -121,3 +121,5 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | HS Video Game Design                                            | 3                |
 | HS Virtual Reality (VR)                                         | 3                |
 | HS Webmaster                                                    | 3                |
+
+Although Texas TSA allows multiple entries to advance from regions even in events that are listed as "one per chapter" in the National Competitive Events Guide, National TSA will adhere to the entry limits posted. For example, although your chapter could bring 3 Architectural Design projects to Texas TSA State Contest, only one of those will be able to be entered by your chapter at Nationals. Please ensure that your members understand this to avoid any disappointment. If you have any questions, reach out to nqe@texastsa.org, but be on notice that we cannot override ANY chapter limits imposed by TSA Nationals. 

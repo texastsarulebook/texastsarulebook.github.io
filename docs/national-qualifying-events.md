@@ -69,6 +69,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Prepared Speech               | 2                | 
 | MS Problem Solving               | 3                |
 | MS Promotional Marketing         | 3                |
+| **[MS Robotics Texas Modifications](/rec-foundation-robotics)**| NA                |
 | MS STEM Animation                | 3                | 
 | MS Structural Engineering        | 3                |
 | MS System Control Technology     | 3                | 

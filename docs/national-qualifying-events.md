@@ -59,7 +59,6 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Flight                        | 3                |
 | MS Forensic Technology           | 3                |
 | MS Inventions and Innovations    | 3                |
-| MS Solar Racer                   | 3                |
 | MS Leadership Strategies         | 2                | 
 | MS Mass Production               | 3                |
 | MS Mechanical Engineering        | 3                |
@@ -70,6 +69,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Problem Solving               | 3                |
 | MS Promotional Marketing         | 3                |
 | **[MS Robotics Texas Modifications](/rec-foundation-robotics)**| NA                |
+| MS Solar Racer                   | 3                |
 | MS STEM Animation                | 3                | 
 | MS Structural Engineering        | 3                |
 | MS System Control Technology     | 3                | 

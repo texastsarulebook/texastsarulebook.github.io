@@ -21,14 +21,14 @@ Participating schools must supply all necessary software, hardware, paper, etc. 
 
 | Event                    | Team Size  |
 | ------------------------ | ---------- |
-| Animation                | Individual |
-| Graphic Design, Artistic | Individual |
-| Multi-Media Presentation | Individual |
+| Computer Skills - Animation| Individual |
+| Computer Skills - Graphic Design, Artistic | Individual |
+| Computer Skills - Multi-Media Presentation | Individual |
 
 ### High School
 
 | Event                    | Team Size  |
 | ------------------------ | ---------- |
-| Animation                | Individual |
-| Graphic Design, Artistic | Individual |
-| Multi-Media Presentation | Individual |
+| Computer Skills - Animation | Individual |
+| Computer Skills - Graphic Design, Artistic | Individual |
+| Computer Skills - Multi-Media Presentation | Individual |

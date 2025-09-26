@@ -20,21 +20,21 @@ Drafting aids will not be allowed. Participants will be seated in regular foldin
 
 | Event                                     | Team Size  |
 | ----------------------------------------- | ---------- |
-| Technology Problem Solving                | Individual |
-| Communication Technology                  | Individual |
-| Computer Applications                     | Individual |
-| Construction Technology                   | Individual |
-| Energy, Power & Transportation Technology | Individual |
-| Manufacturing Technology                  | Individual |
+| Graphic Solutions - Technology Problem Solving | Individual |
+| Graphic Solutions - Communication Technology   | Individual |
+| Graphic Solutions - Computer Applications      | Individual |
+| Graphic Solutions - Construction Technology    | Individual |
+| Graphic Solutions - Energy, Power & Transportation Technology | Individual |
+| Graphic Solutions - Manufacturing Technology  | Individual |
 
 ### High School
 
 | Event                            | Team Size  |
 | -------------------------------- | ---------- |
-| Technology Problem Solving       | Individual |
-| Architecture and Construction    | Individual |
-| Engineering Design               | Individual |
-| Promotional Design and Marketing | Individual |
-| Manufacturing Design             | Individual |
-| Information Technology           | Individual |
-| Bio-technology                   | Individual |
+| Graphic Solutions - Technology Problem Solving       | Individual |
+| Graphic Solutions - Architecture and Construction    | Individual |
+| Graphic Solutions - Engineering Design               | Individual |
+| Graphic Solutions - Promotional Design and Marketing | Individual |
+| Graphic Solutions - Manufacturing Design             | Individual |
+| Graphic Solutions - Information Technology           | Individual |
+| Graphic Solutions - Bio-technology                   | Individual |

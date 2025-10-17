@@ -80,47 +80,47 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 
 ## High School Events
 
-| Events                                                          | # Entries/Region |
-| --------------------------------------------------------------- | ---------------- |
-| HS Animatronics                                                 | 3                |
-| HS Architectural Design                                         | 3                |
-| HS Audio Podcasting                                             | 3                |
-| HS Biotechnology Design                                         | 3                |
-| HS Board Game Design                                            | 3                |
-| HS CAD - Architecture                                           | 3                |
-| HS CAD - Engineering                                            | 3                |
-| HS Chapter Team                                                 | 3                |
-| HS Children's Stories                                           | 3                |
-| HS Coding                                                       | 3                |
-| HS Data Science & Analytics                                     | 3                |
-| HS Debating Technological Issues                                | 2                |
-| HS Digital Video Production                                     | 3                |
-| HS Dragster Design                                              | 3                |
-| HS Drone Challenge (UAV)                                        | 3                |
-| HS Engineering Design                                           | 3                |
-| HS Extemporaneous Speech                                        | 2                |
-| HS Fashion Design & Technology                                  | 3                |
-| HS Flight Endurance                                             | 3                |
-| HS Forensic Science                                             | 3                |
-| HS Future Technology & Engineering Teacher                      | 3                |
-| HS Geospatial Technology                                        | 3                |
-| HS Manufacturing Prototype                                      | 3                |
-| HS Music Production                                             | 3                |
-| HS On Demand Video                                              | 3                |
-| HS Photographic Technology                                      | 3                |
-| HS Prepared Presentation                                        | 2                |
-| HS Promotional Design                                           | 3                |
-| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               |
-| HS Senior Solar Sprint                                          | 3                |
-| HS Software Development                                         | 3                |
-| HS STEM Mass Media                                              | 3                |
-| HS Structural Design & Engineering                              | 3                |
-| HS System Control Technology                                    | 3                |
-| HS Technology Bowl                                              | 3                |
-| HS Technology Problem Solving                                   | 3                |
-| HS Transportation Modeling                                      | 3                |
-| HS Video Game Design                                            | 3                |
-| HS Virtual Reality (VR)                                         | 3                |
-| HS Webmaster                                                    | 3                |
+| Events                                                          | # Entries/Region | Chapter Limits       |
+| --------------------------------------------------------------- | ---------------- | -------------------- |
+| HS Animatronics                                                 | 3                | Region Limit Only    |
+| HS Architectural Design                                         | 3                | 1                    |
+| HS Audio Podcasting                                             | 3                | Region Limit Only    |
+| HS Biotechnology Design                                         | 3                | 1 |
+| HS Board Game Design                                            | 3                | 1 |
+| HS CAD - Architecture                                           | 3                | 2 |
+| HS CAD - Engineering                                            | 3                | 2 |
+| HS Chapter Team                                                 | 3                | 1 |
+| HS Children's Stories                                           | 3                | Region Limit Only    | 
+| HS Coding                                                       | 3                | 1    |
+| HS Data Science & Analytics                                     | 3                | Region Limit Only    |
+| HS Debating Technological Issues                                | 2                | Region Limit Only    |
+| HS Digital Video Production                                     | 3                | Region Limit Only    |
+| HS Dragster Design                                              | 3                | 2 |
+| HS Drone Challenge (UAV)                                        | 3                | Region Limit Only    |
+| HS Engineering Design                                           | 3                | Region Limit Only    |
+| HS Extemporaneous Speech                                        | 2                | Region Limit Only    |
+| HS Fashion Design & Technology                                  | 3                | Region Limit Only    |
+| HS Flight Endurance                                             | 3                | 2 |
+| HS Forensic Science                                             | 3                | 1 |
+| HS Future Technology & Engineering Teacher                      | 3                | 3 |
+| HS Geospatial Technology                                        | 3                | 1 |
+| HS Manufacturing Prototype                                      | 3                | 1 |
+| HS Music Production                                             | 3                | Region Limit Only    |
+| HS On Demand Video                                              | 3                | 1 |
+| HS Photographic Technology                                      | 3                | 1 |
+| HS Prepared Presentation                                        | 2                | Region Limit Only    |
+| HS Promotional Design                                           | 3                | Region Limit Only    |
+| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               | 2 by Invitation Only|
+| HS Senior Solar Sprint                                          | 3                | 1 |
+| HS Software Development                                         | 3                | 1 |
+| HS STEM Mass Media                                              | 3                | 1 |
+| HS Structural Design & Engineering                              | 3                | 1 |
+| HS System Control Technology                                    | 3                | Region Limit Only    |
+| HS Technology Bowl                                              | 3                | 1 |
+| HS Technology Problem Solving                                   | 3                | 1 |
+| HS Transportation Modeling                                      | 3                | 1 |
+| HS Video Game Design                                            | 3                | Region Limit Only    |
+| HS Virtual Reality (VR)                                         | 3                | 1 |
+| HS Webmaster                                                    | 3                | 1 |
 
 Although Texas TSA allows multiple entries to advance from regions even in events that are listed as "one per chapter" in the National Competitive Events Guide, National TSA will adhere to the entry limits posted. For example, although your chapter could bring 3 Architectural Design projects to Texas TSA State Contest, only one of those will be able to be entered by your chapter at Nationals. Please ensure that your members understand this to avoid any disappointment. If you have any questions, reach out to nqe@texastsa.org, but be on notice that we cannot override ANY chapter limits imposed by TSA Nationals. 

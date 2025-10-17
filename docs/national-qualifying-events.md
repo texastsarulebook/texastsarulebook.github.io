@@ -91,7 +91,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | HS CAD - Engineering                                            | 3                | 2 |
 | HS Chapter Team                                                 | 3                | 1 |
 | HS Children's Stories                                           | 3                | Region Limit Only    | 
-| HS Coding                                                       | 3                | 1    |
+| HS Coding                                                       | 3                | Region Limit Only    |
 | HS Data Science & Analytics                                     | 3                | Region Limit Only    |
 | HS Debating Technological Issues                                | 2                | Region Limit Only    |
 | HS Digital Video Production                                     | 3                | Region Limit Only    |
@@ -110,7 +110,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | HS Photographic Technology                                      | 3                | 1 |
 | HS Prepared Presentation                                        | 2                | Region Limit Only    |
 | HS Promotional Design                                           | 3                | Region Limit Only    |
-| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               | 2 by Invitation Only|
+| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               | 3 by Invitation Only|
 | HS Senior Solar Sprint                                          | 3                | 1 |
 | HS Software Development                                         | 3                | 1 |
 | HS STEM Mass Media                                              | 3                | 1 |

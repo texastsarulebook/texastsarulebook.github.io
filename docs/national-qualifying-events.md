@@ -68,7 +68,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | MS Prepared Speech               | 2                | 
 | MS Problem Solving               | 3                |
 | MS Promotional Marketing         | 3                |
-| **[MS Robotics Texas Modifications](/rec-foundation-robotics)**| NA                |
+| **[MS Robotics Texas Modifications](/rec-foundation-robotics)**| 3 by Invitation Only |
 | MS Solar Racer                   | 3                |
 | MS STEM Animation                | 3                | 
 | MS Structural Engineering        | 3                |
@@ -110,7 +110,7 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | HS Photographic Technology                                      | 3                | 1 |
 | HS Prepared Presentation                                        | 2                | Region Limit Only    |
 | HS Promotional Design                                           | 3                | Region Limit Only    |
-| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               | 3 by Invitation Only|
+| **[HS Robotics Texas Modifications](/rec-foundation-robotics)** | NA               | 3 by Invitation Only |
 | HS Senior Solar Sprint                                          | 3                | 1 |
 | HS Software Development                                         | 3                | 1 |
 | HS STEM Mass Media                                              | 3                | 1 |

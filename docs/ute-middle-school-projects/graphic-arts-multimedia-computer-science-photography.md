@@ -119,7 +119,7 @@ Items in this section involve student created projects in which students used mu
 | ------------------------------------------- | ------- | ------- |
 | Webpage Design - Individual Webpage         | |MP22000 |
 | Webpage Design - School Related Webpage     | School names, mascot and logos are permitted in this event. |MP22001 |
-| Webpage Design - Commercial Related Webpage | Copyright names and images cannot be used. All graphics and pictures must be original work of the student.| |MP22002 |
+| Webpage Design - Commercial Related Webpage | Copyright names and images cannot be used. All graphics and pictures must be original work of the student.|MP22002 |
 
 ### Video Game Design
 

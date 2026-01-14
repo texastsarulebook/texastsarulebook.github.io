@@ -4,6 +4,10 @@ sidebar_position: 5
 
 # Section 4 - Applied Technical Science
 
+:::info
+Displays limits not to exceed 36" wide X 15" deep X 42" tall. They must be able to fit on a table and cannot rely on a power source.
+:::
+
 These events are designed for students learning about the practical application of science and technology. All projects must include the required documentation and the project must be physically present at the conference to be judged.
 
 import UteHighSchoolProjectsBanner from '/ute-high-school-projects-banner.mdx'

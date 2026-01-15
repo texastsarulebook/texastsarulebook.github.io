@@ -121,6 +121,4 @@ If you are unsure of the wording of a rule, have a question, or need clarificati
 | HS Transportation Modeling                                      | 3                | 1 |
 | HS Video Game Design                                            | 3                | Region Limit Only    |
 | HS Virtual Reality (VR)                                         | 3                | 1 |
-| HS Webmaster                                                    | 3                | 1 |
-
-Although Texas TSA allows multiple entries to advance from regions even in events that are listed as "one per chapter" in the National Competitive Events Guide, National TSA will adhere to the entry limits posted. For example, although your chapter could bring 3 Architectural Design projects to Texas TSA State Contest, only one of those will be able to be entered by your chapter at Nationals. Please ensure that your members understand this to avoid any disappointment. If you have any questions, reach out to nqe@texastsa.org, but be on notice that we cannot override ANY chapter limits imposed by TSA Nationals. 
+| HS Webmaster                                                    | 3                | 1 | 

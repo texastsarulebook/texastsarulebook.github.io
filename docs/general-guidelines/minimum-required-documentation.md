@@ -11,10 +11,10 @@ sidebar_position: 9
    quality of writing, neatness, completeness of drawings, etc. unless otherwise noted.
 3. Documentation can be housed in clear plastic page protector or folder. No 3-ring binders unless specified by rules.
 
-:::info UTE Project Documentation with Bill of Materials
-[You can download the UTE Project Documentation with Bill of Materials document here.](https://drive.google.com/file/d/1r-gEbtmviAUNWEEmvQUCj86kj_5nhGRB/view?usp=sharing)
+:::info UTE Project Documentation with Bill of Materials - Updated 25-26
+[You can download the UTE Project Documentation with Bill of Materials document here.](https://drive.google.com/file/d/1I1xBg3uN3ySDhboQKpZ3u-pyGBX1yEwW/view?usp=sharing)
 :::
 
-:::info UTE Project Documentation
-[You can download the UTE Project Documentation document here.](https://drive.google.com/file/d/1NzFb5VNpfmk_TOTrpq6kus0DojrErIbD/view?usp=sharing)
+:::info UTE Project Documentation - Updated 25-26
+[You can download the UTE Project Documentation document here.](https://drive.google.com/file/d/1BkGIefTBmx_zs1j5CnGy1eHq7QBrwE6e/view?usp=sharing)
 :::

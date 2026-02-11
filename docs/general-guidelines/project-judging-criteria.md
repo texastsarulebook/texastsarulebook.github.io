@@ -16,5 +16,5 @@ sidebar_position: 6
 - The same entry cannot be used in multiple classifications. Further clarification will be provided under each specific section.
 
 :::info UTE Project Rubric Download
-[You can download the UTE Project Rubric here.](https://drive.google.com/file/d/1PrfV9ax3pP-0hCnHdTlV7MwrhKXNvmv6/view?usp=sharing)
+[You can download the UTE Project Rubric here.](https://drive.google.com/file/d/1P9QCCrEHuEXgLNBNdejEPAopXHLMWtzV/view?usp=sharing)
 :::

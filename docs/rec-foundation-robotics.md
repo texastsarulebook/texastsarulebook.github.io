@@ -27,23 +27,24 @@ The invitation to compete at the state conference will come from the Texas State
 
 Important: Ignorance of the rules and/or misunderstanding of these guidelines is not an excuse for a protest or additional consideration.
 A recognized tournament is one that has results posted with recf.org. Please contact vex@texastsa.org if you have any questions.
-RECF V5 Robotics Competition (blended MS & HS)
 
-Entry Limits
+**RECF V5 Robotics Competition (blended MS & HS)**
+
+**Entry Limits**
 - Invitational Only Tournament – invitations will be sent to teams with highest Skills Scores
 - Maximum of 3 teams per Chapter
 
-Additional Information
+**Additional Information**
 - All teams will need to have a driver available during the matches to be eligible to compete.
 - A tournament will be run but no skills matches and the top 10 teams from the tournament will participate in an interview.
 - Engineering Notebooks will not be evaluated at state.
 - Conference competition dress code must be followed to compete.
 
-RECF IQ Robotics Competition (MS Only)
+**RECF IQ Robotics Competition (MS Only)**
 
-Entry Limits
+**Entry Limits**
 - Invitational Only Tournament – invitations will be sent to teams with highest Skills Scores Maximum of 3 teams per Chapter
 
-Additional Information
+**Additional Information**
 - All teams will need to have a driver available during the matches to be eligible to compete.
 - Conference competition dress code must be followed to compete.

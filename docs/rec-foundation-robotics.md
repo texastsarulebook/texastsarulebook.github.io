@@ -26,7 +26,7 @@ The invitation to compete at the state conference will come from the Texas State
 - Provide at least 1 volunteer at the state conference to help with the tournament.
 
 Important: Ignorance of the rules and/or misunderstanding of these guidelines is not an excuse for a protest or additional consideration.
-A recognized tournament is one that has results posted with recf.org. Please contact vex@texastsa.org if you have any questions.
+A recognized tournament is one that has results posted with recf.org. Please contact [robotics@texastsa.org](mailto:robotics@texastsa.org) if you have any questions.
 
 **RECF V5 Robotics Competition (blended MS & HS)**
 

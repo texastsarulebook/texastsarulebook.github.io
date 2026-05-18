@@ -50,10 +50,10 @@ Pamela Cook
 Tara Dye and Kristin Rausch 
 [nqe@texastsa.org](mailto:nqe@texastsa.org)  
 
-### RECF (VEX Robotics) Event Managers
+### REC Foundation Robotics Event Managers
 
 Emily Gresham and Devin Murphy   
-[vex@texastsa.org](mailto:vex@texastsa.org)
+[robotics@texastsa.org](mailto:robotics@texastsa.org)
 
 ### Data Managers
 
